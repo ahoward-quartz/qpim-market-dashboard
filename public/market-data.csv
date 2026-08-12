@@ -1,5 +1,4 @@
 dataset,label,value,category
-chart_aeo,7/31/2016,-8.8729,behavioral
 chart_aeo,8/31/2016,-11.3199,behavioral
 chart_aeo,9/30/2016,-9.7025,behavioral
 chart_aeo,10/31/2016,-7.2526,behavioral
@@ -119,7 +118,6 @@ chart_aeo,3/31/2026,23.1886,behavioral
 chart_aeo,4/30/2026,24.581,behavioral
 chart_aeo,5/31/2026,26.5483,behavioral
 chart_aeo,6/30/2026,29.3541,behavioral
-chart_barometer,7/31/2016,9.3333,behavioral
 chart_barometer,8/31/2016,8.5,behavioral
 chart_barometer,9/30/2016,10,behavioral
 chart_barometer,10/31/2016,10,behavioral
@@ -239,7 +237,7 @@ chart_barometer,3/31/2026,11.6667,behavioral
 chart_barometer,4/30/2026,12.3333,behavioral
 chart_barometer,5/31/2026,12.3333,behavioral
 chart_barometer,6/30/2026,12.3333,behavioral
-chart_preference,7/31/2016,30,behavioral
+chart_barometer,7/31/2026,11.6667,behavioral
 chart_preference,8/31/2016,48,behavioral
 chart_preference,9/30/2016,67,behavioral
 chart_preference,10/31/2016,63,behavioral
@@ -258,9 +256,9 @@ chart_preference,10/31/2017,60,behavioral
 chart_preference,11/30/2017,61,behavioral
 chart_preference,12/31/2017,51,behavioral
 chart_preference,1/31/2018,43,behavioral
-chart_preference,2/28/2018,33,behavioral
+chart_preference,2/28/2018,34,behavioral
 chart_preference,3/31/2018,34,behavioral
-chart_preference,4/30/2018,43,behavioral
+chart_preference,4/30/2018,44,behavioral
 chart_preference,5/31/2018,51,behavioral
 chart_preference,6/30/2018,61,behavioral
 chart_preference,7/31/2018,43,behavioral
@@ -304,12 +302,12 @@ chart_preference,8/31/2021,61,behavioral
 chart_preference,9/30/2021,77,behavioral
 chart_preference,10/31/2021,77,behavioral
 chart_preference,11/30/2021,50,behavioral
-chart_preference,12/31/2021,27,behavioral
+chart_preference,12/31/2021,28,behavioral
 chart_preference,1/31/2022,33,behavioral
 chart_preference,2/28/2022,28,behavioral
-chart_preference,3/31/2022,20,behavioral
+chart_preference,3/31/2022,21,behavioral
 chart_preference,4/30/2022,12,behavioral
-chart_preference,5/31/2022,9,behavioral
+chart_preference,5/31/2022,10,behavioral
 chart_preference,6/30/2022,5,behavioral
 chart_preference,7/31/2022,9,behavioral
 chart_preference,8/31/2022,5,behavioral
@@ -320,17 +318,17 @@ chart_preference,12/31/2022,5,behavioral
 chart_preference,1/31/2023,7,behavioral
 chart_preference,2/28/2023,7,behavioral
 chart_preference,3/31/2023,12,behavioral
-chart_preference,4/30/2023,10,behavioral
-chart_preference,5/31/2023,10,behavioral
-chart_preference,6/30/2023,17,behavioral
+chart_preference,4/30/2023,9,behavioral
+chart_preference,5/31/2023,9,behavioral
+chart_preference,6/30/2023,18,behavioral
 chart_preference,7/31/2023,13,behavioral
-chart_preference,8/31/2023,17,behavioral
+chart_preference,8/31/2023,18,behavioral
 chart_preference,9/30/2023,20,behavioral
 chart_preference,10/31/2023,13,behavioral
 chart_preference,11/30/2023,28,behavioral
 chart_preference,12/31/2023,45,behavioral
 chart_preference,1/31/2024,32,behavioral
-chart_preference,2/29/2024,32,behavioral
+chart_preference,2/29/2024,33,behavioral
 chart_preference,3/31/2024,45,behavioral
 chart_preference,4/30/2024,50,behavioral
 chart_preference,5/31/2024,45,behavioral
@@ -340,7 +338,7 @@ chart_preference,8/31/2024,32,behavioral
 chart_preference,9/30/2024,32,behavioral
 chart_preference,10/31/2024,63,behavioral
 chart_preference,11/30/2024,68,behavioral
-chart_preference,12/31/2024,44,behavioral
+chart_preference,12/31/2024,45,behavioral
 chart_preference,1/31/2025,62,behavioral
 chart_preference,2/28/2025,45,behavioral
 chart_preference,3/31/2025,28,behavioral
@@ -350,37 +348,37 @@ chart_preference,6/30/2025,49,behavioral
 chart_preference,7/31/2025,62,behavioral
 chart_preference,8/31/2025,50,behavioral
 chart_preference,9/30/2025,33,behavioral
-chart_preference,10/31/2025,18,behavioral
+chart_preference,10/31/2025,17,behavioral
 chart_preference,11/30/2025,12,behavioral
-chart_preference,12/31/2025,12,behavioral
+chart_preference,12/31/2025,13,behavioral
 chart_preference,1/31/2026,7,behavioral
 chart_preference,2/28/2026,9,behavioral
 chart_preference,3/31/2026,9,behavioral
 chart_preference,4/30/2026,12,behavioral
-chart_preference,5/31/2026,9,behavioral
-chart_preference,6/30/2026,9,behavioral
+chart_preference,5/31/2026,10,behavioral
+chart_preference,6/30/2026,10,behavioral
+chart_preference,7/31/2026,6,behavioral
 info_aeo,AsOfDate,6/30/2026,behavioral
-info_aeo,ChartDateRange,2016-07-31 to 2026-06-30,behavioral
+info_aeo,ChartDateRange,2016-08-31 to 2026-06-30,behavioral
 info_aeo,ChartLabel,Market Type,behavioral
 info_aeo,ChartMetric,Active Equity Opportunity,behavioral
 info_aeo,CurrentScore,88,behavioral
 info_aeo,CurrentValue,29.3541,behavioral
 info_aeo,OneYearTrend,Improving,behavioral
-info_barometer,AsOfDate,6/30/2026,behavioral
-info_barometer,ChartDateRange,2016-07-31 to 2026-06-30,behavioral
+info_barometer,AsOfDate,7/31/2026,behavioral
+info_barometer,ChartDateRange,2016-08-31 to 2026-07-31,behavioral
 info_barometer,ChartLabel,Market Barometer,behavioral
 info_barometer,ChartMetric,Blended Expected Equity Market Returns,behavioral
-info_barometer,CurrentScore,76,behavioral
-info_barometer,CurrentValue,12.3333,behavioral
+info_barometer,CurrentScore,67,behavioral
+info_barometer,CurrentValue,11.6667,behavioral
 info_barometer,OneYearTrend,Improving,behavioral
-info_preference,AsOfDate,6/30/2026,behavioral
-info_preference,ChartDateRange,2016-07-31 to 2026-06-30,behavioral
+info_preference,AsOfDate,7/31/2026,behavioral
+info_preference,ChartDateRange,2016-08-31 to 2026-07-31,behavioral
 info_preference,ChartLabel,Preference,behavioral
 info_preference,ChartMetric,Investor Preference for Equities,behavioral
-info_preference,CurrentScore,9,behavioral
-info_preference,CurrentValue,9,behavioral
+info_preference,CurrentScore,6,behavioral
+info_preference,CurrentValue,6,behavioral
 info_preference,OneYearTrend,Weakening,behavioral
-chart_fincond,7/30/2021,-0.654,credit
 chart_fincond,8/27/2021,-0.646,credit
 chart_fincond,9/24/2021,-0.652,credit
 chart_fincond,10/29/2021,-0.62,credit
@@ -440,7 +438,7 @@ chart_fincond,3/27/2026,-0.454,credit
 chart_fincond,4/24/2026,-0.489,credit
 chart_fincond,5/29/2026,-0.495,credit
 chart_fincond,6/26/2026,-0.511,credit
-chart_highyield,7/31/2021,3.32,credit
+chart_fincond,7/17/2026,-0.552,credit
 chart_highyield,8/31/2021,3.21,credit
 chart_highyield,9/30/2021,3.15,credit
 chart_highyield,10/31/2021,3.15,credit
@@ -500,7 +498,7 @@ chart_highyield,3/31/2026,3.28,credit
 chart_highyield,4/30/2026,2.83,credit
 chart_highyield,5/31/2026,2.74,credit
 chart_highyield,6/30/2026,2.75,credit
-chart_monsupply,7/31/2021,22.2093,credit
+chart_highyield,7/24/2026,2.79,credit
 chart_monsupply,8/31/2021,22.8236,credit
 chart_monsupply,9/30/2021,23.0358,credit
 chart_monsupply,10/31/2021,23.4717,credit
@@ -559,28 +557,27 @@ chart_monsupply,2/28/2026,1.866,credit
 chart_monsupply,3/31/2026,1.6248,credit
 chart_monsupply,4/30/2026,1.6465,credit
 chart_monsupply,5/31/2026,2.2399,credit
-info_fincond,AsOfDate,6/26/2026,credit
-info_fincond,ChartDateRange,2021-07-30 to 2026-06-26,credit
+info_fincond,AsOfDate,7/17/2026,credit
+info_fincond,ChartDateRange,2021-08-27 to 2026-07-17,credit
 info_fincond,ChartLabel,Financial Conditions,credit
 info_fincond,ChartMetric,Chicago Financial Conditions Index,credit
-info_fincond,CurrentScore,63,credit
-info_fincond,CurrentValue,-0.511,credit
+info_fincond,CurrentScore,69,credit
+info_fincond,CurrentValue,-0.552,credit
 info_fincond,OneYearTrend,Improving,credit
-info_highyield,AsOfDate,6/30/2026,credit
-info_highyield,ChartDateRange,2021-07-31 to 2026-06-30,credit
+info_highyield,AsOfDate,7/24/2026,credit
+info_highyield,ChartDateRange,2021-08-31 to 2026-07-24,credit
 info_highyield,ChartLabel,High-Yield Spread,credit
 info_highyield,ChartMetric,ICE BofA US High Yield Index,credit
-info_highyield,CurrentScore,96,credit
-info_highyield,CurrentValue,2.75,credit
+info_highyield,CurrentScore,95,credit
+info_highyield,CurrentValue,2.79,credit
 info_highyield,OneYearTrend,Improving,credit
 info_monsupply,AsOfDate,5/31/2026,credit
-info_monsupply,ChartDateRange,2021-07-31 to 2026-05-31,credit
+info_monsupply,ChartDateRange,2021-08-31 to 2026-05-31,credit
 info_monsupply,ChartLabel,Money Supply,credit
 info_monsupply,ChartMetric,M2 vs 6% Constant Growth,credit
 info_monsupply,CurrentScore,40,credit
 info_monsupply,CurrentValue,2.2399,credit
 info_monsupply,OneYearTrend,Improving,credit
-chart_activity,7/31/2021,61.8,economy
 chart_activity,8/31/2021,60.8,economy
 chart_activity,9/30/2021,61.5,economy
 chart_activity,10/31/2021,63.75,economy
@@ -640,26 +637,26 @@ chart_activity,3/31/2026,53.35,economy
 chart_activity,4/30/2026,53.15,economy
 chart_activity,5/31/2026,54.25,economy
 chart_activity,6/30/2026,53.65,economy
-chart_gdp,9/30/2021,5.1508,economy
-chart_gdp,12/31/2021,5.7562,economy
-chart_gdp,3/31/2022,4.0346,economy
-chart_gdp,6/30/2022,2.4538,economy
-chart_gdp,9/30/2022,2.349,economy
-chart_gdp,12/31/2022,1.3171,economy
-chart_gdp,3/31/2023,2.3111,economy
-chart_gdp,6/30/2023,2.7926,economy
-chart_gdp,9/30/2023,3.2332,economy
-chart_gdp,12/31/2023,3.3909,economy
-chart_gdp,3/31/2024,2.8633,economy
-chart_gdp,6/30/2024,3.1266,economy
-chart_gdp,9/30/2024,2.7914,economy
-chart_gdp,12/31/2024,2.3998,economy
-chart_gdp,3/31/2025,2.0193,economy
-chart_gdp,6/30/2025,2.0805,economy
-chart_gdp,9/30/2025,2.3352,economy
-chart_gdp,12/31/2025,1.9893,economy
-chart_gdp,3/31/2026,2.6847,economy
-chart_inflation,7/31/2021,3.9271,economy
+chart_gdp,12/31/2021,7,economy
+chart_gdp,3/31/2022,-1,economy
+chart_gdp,6/30/2022,0.6,economy
+chart_gdp,9/30/2022,2.9,economy
+chart_gdp,12/31/2022,2.8,economy
+chart_gdp,3/31/2023,2.9,economy
+chart_gdp,6/30/2023,2.5,economy
+chart_gdp,9/30/2023,4.7,economy
+chart_gdp,12/31/2023,3.4,economy
+chart_gdp,3/31/2024,0.8,economy
+chart_gdp,6/30/2024,3.6,economy
+chart_gdp,9/30/2024,3.3,economy
+chart_gdp,12/31/2024,1.9,economy
+chart_gdp,3/31/2025,-0.6,economy
+chart_gdp,6/30/2025,3.8,economy
+chart_gdp,9/30/2025,4.4,economy
+chart_gdp,12/31/2025,0.5,economy
+chart_gdp,3/31/2026,2.1,economy
+chart_gdp,6/30/2026,1.5,economy
+chart_gdp,9/30/2026,5.8334,economy
 chart_inflation,8/31/2021,3.9585,economy
 chart_inflation,9/30/2021,4.0139,economy
 chart_inflation,10/31/2021,4.4367,economy
@@ -719,48 +716,46 @@ chart_inflation,3/31/2026,3.2538,economy
 chart_inflation,4/30/2026,3.3187,economy
 chart_inflation,5/31/2026,3.412,economy
 info_activity,AsOfDate,6/30/2026,economy
-info_activity,ChartDateRange,2021-07-31 to 2026-06-30,economy
+info_activity,ChartDateRange,2021-08-31 to 2026-06-30,economy
 info_activity,ChartLabel,Activity,economy
 info_activity,ChartMetric,Goods and Services Activity,economy
 info_activity,CurrentScore,48,economy
 info_activity,CurrentValue,53.65,economy
 info_activity,OneYearTrend,Weakening,economy
-info_gdp,AsOfDate,3/31/2026,economy
-info_gdp,ChartDateRange,2021-09-30 to 2026-03-31,economy
+info_gdp,AsOfDate,9/30/2026,economy
+info_gdp,ChartDateRange,2021-12-31 to 2026-09-30,economy
 info_gdp,ChartLabel,GDP Growth,economy
-info_gdp,ChartMetric,Real GDP Growth (YoY),economy
-info_gdp,CurrentScore,39,economy
-info_gdp,CurrentValue,2.6847,economy
+info_gdp,ChartMetric,Real GDP Growth,economy
+info_gdp,CurrentScore,80,economy
+info_gdp,CurrentValue,5.8334,economy
 info_gdp,OneYearTrend,Improving,economy
 info_inflation,AsOfDate,5/31/2026,economy
-info_inflation,ChartDateRange,2021-07-31 to 2026-05-31,economy
+info_inflation,ChartDateRange,2021-08-31 to 2026-05-31,economy
 info_inflation,ChartLabel,Inflation,economy
 info_inflation,ChartMetric,Core PCE (YoY),economy
 info_inflation,CurrentScore,37,economy
 info_inflation,CurrentValue,3.412,economy
 info_inflation,OneYearTrend,Improving,economy
-info_behavioral,AsOfDate,6/30/2026,summary
+info_behavioral,AsOfDate,7/31/2026,summary
 info_behavioral,ChartLabel,Behavioral,summary
-info_behavioral,CurrentScore,58,summary
+info_behavioral,CurrentScore,54,summary
 info_behavioral,OneYearTrend,Improving,summary
-info_credit,AsOfDate,6/30/2026,summary
+info_credit,AsOfDate,7/24/2026,summary
 info_credit,ChartLabel,Credit,summary
-info_credit,CurrentScore,66,summary
+info_credit,CurrentScore,68,summary
 info_credit,OneYearTrend,Improving,summary
-info_economy,AsOfDate,6/30/2026,summary
+info_economy,AsOfDate,9/30/2026,summary
 info_economy,ChartLabel,Economy,summary
-info_economy,CurrentScore,41,summary
+info_economy,CurrentScore,55,summary
 info_economy,OneYearTrend,Improving,summary
-info_technical,AsOfDate,7/24/2026,summary
+info_technical,AsOfDate,8/7/2026,summary
 info_technical,ChartLabel,Technical,summary
-info_technical,CurrentScore,59,summary
+info_technical,CurrentScore,69,summary
 info_technical,OneYearTrend,Improving,summary
-info_valuation,AsOfDate,6/30/2026,summary
+info_valuation,AsOfDate,7/31/2026,summary
 info_valuation,ChartLabel,Valuation,summary
-info_valuation,CurrentScore,8,summary
+info_valuation,CurrentScore,9,summary
 info_valuation,OneYearTrend,Weakening,summary
-chart_breadth,7/25/2025,53.3,technical
-chart_breadth,8/1/2025,42.68,technical
 chart_breadth,8/8/2025,47.27,technical
 chart_breadth,8/15/2025,52.66,technical
 chart_breadth,8/22/2025,63.07,technical
@@ -811,9 +806,9 @@ chart_breadth,6/26/2026,68.05,technical
 chart_breadth,7/2/2026,68.94,technical
 chart_breadth,7/10/2026,68.07,technical
 chart_breadth,7/17/2026,69.74,technical
-chart_breadth,7/24/2026,69.05,technical
-chart_momentum,7/25/2025,26.1525,technical
-chart_momentum,8/1/2025,21.9827,technical
+chart_breadth,7/24/2026,69,technical
+chart_breadth,7/31/2026,69.81,technical
+chart_breadth,8/7/2026,73.61,technical
 chart_momentum,8/8/2025,27.0414,technical
 chart_momentum,8/15/2025,19.4488,technical
 chart_momentum,8/22/2025,21.6867,technical
@@ -865,8 +860,8 @@ chart_momentum,7/2/2026,33.0693,technical
 chart_momentum,7/10/2026,24.9242,technical
 chart_momentum,7/17/2026,19.9264,technical
 chart_momentum,7/24/2026,15.3678,technical
-chart_volatility,7/25/2025,18.32,technical
-chart_volatility,8/1/2025,21.24,technical
+chart_momentum,7/31/2026,17.1414,technical
+chart_momentum,8/7/2026,19.5423,technical
 chart_volatility,8/8/2025,18.7,technical
 chart_volatility,8/15/2025,18.64,technical
 chart_volatility,8/22/2025,17.76,technical
@@ -918,28 +913,29 @@ chart_volatility,7/2/2026,19.04,technical
 chart_volatility,7/10/2026,18.57,technical
 chart_volatility,7/17/2026,20.54,technical
 chart_volatility,7/24/2026,20.51,technical
-info_breadth,AsOfDate,7/24/2026,technical
-info_breadth,ChartDateRange,2025-07-25 to 2026-07-24,technical
+chart_volatility,7/31/2026,19.02,technical
+chart_volatility,8/7/2026,18.72,technical
+info_breadth,AsOfDate,8/7/2026,technical
+info_breadth,ChartDateRange,2025-08-08 to 2026-08-07,technical
 info_breadth,ChartLabel,Breadth,technical
 info_breadth,ChartMetric,S&P 1500 % of Stocks Above 200-Day MA,technical
-info_breadth,CurrentScore,70,technical
-info_breadth,CurrentValue,69.05,technical
+info_breadth,CurrentScore,80,technical
+info_breadth,CurrentValue,73.61,technical
 info_breadth,OneYearTrend,Improving,technical
-info_momentum,AsOfDate,7/24/2026,technical
-info_momentum,ChartDateRange,2025-07-25 to 2026-07-24,technical
+info_momentum,AsOfDate,8/7/2026,technical
+info_momentum,ChartDateRange,2025-08-08 to 2026-08-07,technical
 info_momentum,ChartLabel,Momentum,technical
 info_momentum,ChartMetric,Quartz S&P 500 Trend Score,technical
-info_momentum,CurrentScore,65,technical
-info_momentum,CurrentValue,15.3678,technical
+info_momentum,CurrentScore,73,technical
+info_momentum,CurrentValue,19.5423,technical
 info_momentum,OneYearTrend,Improving,technical
-info_volatility,AsOfDate,7/24/2026,technical
-info_volatility,ChartDateRange,2025-07-25 to 2026-07-24,technical
+info_volatility,AsOfDate,8/7/2026,technical
+info_volatility,ChartDateRange,2025-08-08 to 2026-08-07,technical
 info_volatility,ChartLabel,Volatility,technical
 info_volatility,ChartMetric,CBOE 3-Month Volatility Index,technical
-info_volatility,CurrentScore,42,technical
-info_volatility,CurrentValue,20.51,technical
+info_volatility,CurrentScore,54,technical
+info_volatility,CurrentValue,18.72,technical
 info_volatility,OneYearTrend,Improving,technical
-chart_ev,7/31/2021,25.4,valuation
 chart_ev,8/31/2021,26.1,valuation
 chart_ev,9/30/2021,23.3,valuation
 chart_ev,10/31/2021,24.4,valuation
@@ -999,7 +995,6 @@ chart_ev,3/31/2026,24.3,valuation
 chart_ev,4/30/2026,26.3,valuation
 chart_ev,5/31/2026,27.3,valuation
 chart_ev,6/30/2026,26.4,valuation
-chart_pe,7/31/2021,21.8,valuation
 chart_pe,8/31/2021,22.1,valuation
 chart_pe,9/30/2021,21,valuation
 chart_pe,10/31/2021,21.9,valuation
@@ -1059,7 +1054,7 @@ chart_pe,3/31/2026,20.2,valuation
 chart_pe,4/30/2026,21.4,valuation
 chart_pe,5/31/2026,21.9,valuation
 chart_pe,6/30/2026,21.1,valuation
-chart_ps,7/31/2021,3,valuation
+chart_pe,7/31/2026,20.6,valuation
 chart_ps,8/31/2021,3.1,valuation
 chart_ps,9/30/2021,2.9,valuation
 chart_ps,10/31/2021,3.1,valuation
@@ -1120,21 +1115,21 @@ chart_ps,4/30/2026,3.6,valuation
 chart_ps,5/31/2026,3.8,valuation
 chart_ps,6/30/2026,3.7,valuation
 info_ev,AsOfDate,6/30/2026,valuation
-info_ev,ChartDateRange,2021-07-31 to 2026-06-30,valuation
+info_ev,ChartDateRange,2021-08-31 to 2026-06-30,valuation
 info_ev,ChartLabel,Enterprise Valuation,valuation
 info_ev,ChartMetric,S&P 500 EV to EBIT (TTM),valuation
 info_ev,CurrentScore,7,valuation
 info_ev,CurrentValue,26.4,valuation
 info_ev,OneYearTrend,Weakening,valuation
-info_pe,AsOfDate,6/30/2026,valuation
-info_pe,ChartDateRange,2021-07-31 to 2026-06-30,valuation
+info_pe,AsOfDate,7/31/2026,valuation
+info_pe,ChartDateRange,2021-08-31 to 2026-07-31,valuation
 info_pe,ChartLabel,Earnings Valuation,valuation
 info_pe,ChartMetric,S&P 500 Forward P/E Ratio,valuation
-info_pe,CurrentScore,16,valuation
-info_pe,CurrentValue,21.1,valuation
+info_pe,CurrentScore,18,valuation
+info_pe,CurrentValue,20.6,valuation
 info_pe,OneYearTrend,Weakening,valuation
 info_ps,AsOfDate,6/30/2026,valuation
-info_ps,ChartDateRange,2021-07-31 to 2026-06-30,valuation
+info_ps,ChartDateRange,2021-08-31 to 2026-06-30,valuation
 info_ps,ChartLabel,Revenue Valuation,valuation
 info_ps,ChartMetric,S&P 500 Price to Sales (TTM),valuation
 info_ps,CurrentScore,1,valuation
