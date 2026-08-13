@@ -15,7 +15,13 @@ export function ScoreDonutChart({ score, hexColor, size = 112 }) {
 
   return (
     <div className="relative" style={{ width: size, height: size }}>
-      <PieChart width={size} height={size}>
+      {/*
+        Recharts sets an inline `cursor: default` on its wrapper div, which
+        beats the `cursor: pointer` inherited from the summary card's <a>
+        ancestor — the `!` forces this cursor-pointer utility to
+        !important so it wins over that inline style.
+      */}
+      <PieChart width={size} height={size} className="cursor-pointer!">
         <Pie
           data={data}
           dataKey="value"

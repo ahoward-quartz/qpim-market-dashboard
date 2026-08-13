@@ -21,13 +21,14 @@ function App() {
 
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-5">
           {categories.map(({ key, subMetrics, ...summary }) => (
-            <Card key={key} {...summary} />
+            <Card key={key} sectionId={key} {...summary} />
           ))}
         </div>
 
         {categories.map((category) => (
           <CategorySection
             key={category.key}
+            id={category.key}
             label={category.title}
             subMetrics={category.subMetrics}
           />

@@ -62,12 +62,41 @@ function parseChartRows(rows = []) {
     .sort((a, b) => a.date - b.date)
 }
 
+const MS_PER_YEAR = 365.25 * 24 * 60 * 60 * 1000
+
+const formatMonthYear = (date) =>
+  date.toLocaleDateString("en-US", { month: "short", year: "numeric" })
+
+const formatFullDate = (date) =>
+  date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })
+
+const formatReadingValue = (value) =>
+  value.toLocaleString(undefined, { maximumFractionDigits: 2 })
+
+// Builds the "Trailing N Year(s) (MMM YYYY - MMM YYYY)" label from the
+// chart's actual first/last data points — not the CSV's ChartDateRange
+// field, so it can't drift out of sync as old points roll off and new
+// ones get appended.
+function formatDateRangeLabel(chartData) {
+  if (chartData.length === 0) return null
+
+  const start = chartData[0].date
+  const end = chartData[chartData.length - 1].date
+  const years = Math.round((end - start) / MS_PER_YEAR)
+  const yearWord = years === 1 ? "Year" : "Years"
+
+  return `Trailing ${years} ${yearWord} (${formatMonthYear(start)} - ${formatMonthYear(end)})`
+}
+
 // The generic "pass a key like volatility" filter: looks up "info_<key>"
 // and "chart_<key>" in the dataset map and returns a normalized object
 // ready for the Card component.
 function buildSubMetric(key, datasetMap) {
   const info = parseInfoRows(datasetMap.get(`info_${key}`))
   const score = Number(info.CurrentScore)
+  const chartData = parseChartRows(datasetMap.get(`chart_${key}`))
+  const currentValue = Number(info.CurrentValue)
+  const asOfDate = new Date(info.AsOfDate)
   return {
     key,
     title: info.ChartLabel,
@@ -76,8 +105,17 @@ function buildSubMetric(key, datasetMap) {
     hexColor: getScoreColor(score),
     trend: info.OneYearTrend,
     asOfDate: info.AsOfDate,
-    currentValue: Number(info.CurrentValue),
-    chartData: parseChartRows(datasetMap.get(`chart_${key}`)),
+    currentValue,
+    chartData,
+    dateRangeLabel: formatDateRangeLabel(chartData),
+    // Verified against the chart's own max-date point (they match exactly
+    // across all sub-metrics), so the CSV's own fields are used directly.
+    latestValueLabel: Number.isFinite(currentValue)
+      ? formatReadingValue(currentValue)
+      : null,
+    latestDateLabel: Number.isNaN(asOfDate.getTime())
+      ? null
+      : formatFullDate(asOfDate),
   }
 }
 
