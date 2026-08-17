@@ -24,6 +24,7 @@ export function Card({
   sectionId,
 }) {
   const isDetailCard = Array.isArray(chartData) && chartData.length > 0
+  const band = getScoreBand(score)
 
   if (isDetailCard) {
     return (
@@ -32,20 +33,23 @@ export function Card({
           className="flex items-center justify-between gap-2 px-4 py-2"
           style={{ backgroundColor: hexColor }}
         >
-          <h3 className="font-semibold text-white">{title}</h3>
+          <h3 className="font-bold text-white">{title}</h3>
           <TrendIcon trend={trend} />
         </div>
         <div className="flex flex-col gap-2 p-4">
           {latestValueLabel && latestDateLabel && (
             <div className="grid grid-cols-3 divide-x rounded-md border text-center">
-              <div className="px-2 py-1.5">
-                <p className="text-xs text-foreground">Current Reading</p>
+              <div className="flex flex-col gap-1 px-2 py-1.5">
+                <p className="text-xs font-bold text-[#333]">Current Score</p>
+                <p className="text-xs text-[#333]">{band.label}</p>
               </div>
-              <div className="px-2 py-1.5">
-                <p className="text-xs text-foreground">{latestValueLabel}</p>
+              <div className="flex flex-col gap-1 px-2 py-1.5">
+                <p className="text-xs font-bold text-[#333]">Current Reading</p>
+                <p className="text-xs text-[#333]">{latestValueLabel}</p>
               </div>
-              <div className="px-2 py-1.5">
-                <p className="text-xs text-foreground">{latestDateLabel}</p>
+              <div className="flex flex-col gap-1 px-2 py-1.5">
+                <p className="text-xs font-bold text-[#333]">As Of Date</p>
+                <p className="text-xs text-[#333]">{latestDateLabel}</p>
               </div>
             </div>
           )}
@@ -67,13 +71,11 @@ export function Card({
     )
   }
 
-  const band = getScoreBand(score)
-
   const summaryCard = (
     <CardPrimitive className="items-center gap-2 py-6 text-center">
-      <h3 className="text-lg font-semibold">{title}</h3>
+      <h3 className="text-lg font-bold">{title}</h3>
       <ScoreDonutChart score={score} hexColor={hexColor} />
-      <p className="font-medium" style={{ color: hexColor }}>
+      <p className="font-normal" style={{ color: hexColor }}>
         {band.label}
       </p>
       <TrendIndicator trend={trend} />

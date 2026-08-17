@@ -20,7 +20,7 @@
   --accent: oklch(0.97 0 0);
   --accent-foreground: oklch(0.205 0 0);
   --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.922 0 0);
+  --border: oklch(0.87 0 0);
   --input: oklch(0.922 0 0);
   --ring: oklch(0.708 0 0);
   --chart-1: oklch(0.87 0 0);
@@ -73,6 +73,12 @@
 }
 
 @theme inline {
+  /* Lato everywhere — this both drives the default body font (via
+     Preflight) and becomes available as the `font-sans` utility. Only
+     Regular/Bold are loaded (see main.jsx), which is all the app's
+     font-weight usage needs. */
+  --font-sans: "Lato", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-card: var(--card);

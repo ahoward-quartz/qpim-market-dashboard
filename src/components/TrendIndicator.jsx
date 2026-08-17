@@ -30,7 +30,7 @@ export function TrendIndicator({ trend, className }) {
   return (
     <p
       className={cn(
-        "flex items-center justify-center gap-1 text-sm font-medium",
+        "flex items-center justify-center gap-1 text-sm font-normal",
         !style.hex && "text-muted-foreground",
         className
       )}

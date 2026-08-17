@@ -42,6 +42,15 @@ Category → sub-metric key mapping and ordering is defined in
 | Positive  | 61-80   | #50AE10   |
 | Excellent | 81-100  | #006D1E   |
 
+## Typography
+Lato everywhere (app UI and chart text), self-hosted via `@fontsource/lato`
+(https://fonts.google.com/specimen/Lato) — imported in `main.jsx`, set as
+`--font-sans` in `index.css`. Only Regular (400) and Bold (700) are
+loaded, since that's all the app uses and Lato has no 500/600 cut:
+`font-medium`/`font-semibold` utilities render at their nearest loaded
+weight anyway (500→400, 600→700 per the browser's font-matching), so use
+`font-normal`/`font-bold` directly instead for clarity.
+
 ## Component Requirements
 - A reusable Card component wrapping each chart, accepting props: title, score, hexColor, chartData
 - Top section: 5 summary score cards (one per category)
