@@ -1,6 +1,5 @@
 import { Cell, Pie, PieChart } from "recharts"
-
-const REMAINING_TRACK_COLOR = "#E5E4E7"
+import { NEUTRAL_GRAY } from "@/lib/scoreColor"
 
 // The donut chart (2 slices: "Score" filled with the band color, and
 // "Remaining" as a light gray track for 100 - score) plus the score number
@@ -35,7 +34,7 @@ export function ScoreDonutChart({ score, hexColor, size = 112 }) {
           stroke="none"
         >
           <Cell fill={hexColor} />
-          <Cell fill={REMAINING_TRACK_COLOR} />
+          <Cell fill={NEUTRAL_GRAY} />
         </Pie>
       </PieChart>
       <div className="pointer-events-none absolute inset-0 flex items-center justify-center text-3xl font-bold">

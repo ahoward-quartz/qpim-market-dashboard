@@ -5,9 +5,9 @@ import { FlipCard } from "@/components/FlipCard"
 import { ScoreDonutChart } from "@/components/ScoreDonutChart"
 import { TimeSeriesChart } from "@/components/TimeSeriesChart"
 import { TrendIcon, TrendIndicator } from "@/components/TrendIndicator"
-import { getScoreBand } from "@/lib/scoreColor"
+import { getScoreBand, NEUTRAL_GRAY } from "@/lib/scoreColor"
 
-const ABOUT_BACK_COLOR = "#333"
+const DARK_HEADER_COLOR = "#333"
 
 // The reusable Card from CLAUDE.md's component spec (title, score,
 // hexColor, chartData), extended with subtitle/trend since the reference
@@ -16,8 +16,8 @@ const ABOUT_BACK_COLOR = "#333"
 //     time-series chart, trend line, and a flip-to-reveal "About" back
 //     face with the chart's description/interpretation/source (the 15
 //     sub-metric cards).
-//   - chartData absent -> a summary card: title, score donut gauge, band
-//     label, trend line (the 5 category cards).
+//   - chartData absent -> a summary card: dark header bar with the title,
+//     score donut gauge, band label, trend line (the 5 category cards).
 export function Card({
   title,
   score,
@@ -94,7 +94,7 @@ export function Card({
       <CardPrimitive className="gap-0 overflow-hidden py-0">
         <div
           className="flex items-center justify-between gap-2 px-4 py-2"
-          style={{ backgroundColor: ABOUT_BACK_COLOR }}
+          style={{ backgroundColor: DARK_HEADER_COLOR }}
         >
           <h3 className="font-bold text-white">{title}</h3>
           <button type="button" onClick={() => setFlipped(false)} title="Close" className="text-white">
@@ -137,13 +137,17 @@ export function Card({
   }
 
   const summaryCard = (
-    <CardPrimitive className="items-center gap-2 py-6 text-center">
-      <h3 className="text-lg font-bold">{title}</h3>
-      <ScoreDonutChart score={score} hexColor={hexColor} />
-      <p className="font-normal" style={{ color: hexColor }}>
-        {band.label}
-      </p>
-      <TrendIndicator trend={trend} />
+    <CardPrimitive className="gap-0 overflow-hidden py-0">
+      <div className="px-4 py-2" style={{ backgroundColor: NEUTRAL_GRAY }}>
+        <h3 className="text-center font-bold text-[#333]">{title}</h3>
+      </div>
+      <div className="flex flex-col items-center gap-2 py-6 text-center">
+        <ScoreDonutChart score={score} hexColor={hexColor} />
+        <p className="font-normal" style={{ color: hexColor }}>
+          {band.label}
+        </p>
+        <TrendIndicator trend={trend} />
+      </div>
     </CardPrimitive>
   )
 

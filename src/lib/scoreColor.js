@@ -14,3 +14,7 @@ export function getScoreBand(score) {
 export function getScoreColor(score) {
   return getScoreBand(score).hex
 }
+
+// The neutral gray used for the donut chart's "remaining" track, reused
+// elsewhere (e.g. the summary card header) so both stay a single shade.
+export const NEUTRAL_GRAY = "#E5E4E7"
