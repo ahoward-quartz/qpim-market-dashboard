@@ -116,6 +116,9 @@ function buildSubMetric(key, datasetMap) {
     latestDateLabel: Number.isNaN(asOfDate.getTime())
       ? null
       : formatFullDate(asOfDate),
+    description: info.ChartDescription,
+    interpretation: info.ChartInterpretation,
+    source: info.ChartSource,
   }
 }
 
