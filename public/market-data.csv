@@ -378,7 +378,7 @@ info_barometer,ChartMetric,Blended Expected Equity Market Returns,behavioral
 info_barometer,ChartSource,Quartz Partners,behavioral
 info_barometer,CurrentScore,67,behavioral
 info_barometer,CurrentValue,11.6667,behavioral
-info_barometer,OneYearTrend,Improving,behavioral
+info_barometer,OneYearTrend,Weakening,behavioral
 info_preference,AsOfDate,7/31/2026,behavioral
 info_preference,ChartDateRange,2016-08-31 to 2026-07-31,behavioral
 info_preference,ChartDescription,"The Equity Preference chart displays Quartz's Equity Preference Score, based on the ranking of current investor preference for equity strategies versus the ranking of long-term investor preference for equity strategies.",behavioral
@@ -587,7 +587,7 @@ info_highyield,ChartMetric,ICE BofA US High Yield Index,credit
 info_highyield,ChartSource,Federal Reserve (https://fred.stlouisfed.org/series/BAMLH0A0HYM2),credit
 info_highyield,CurrentScore,93,credit
 info_highyield,CurrentValue,2.85,credit
-info_highyield,OneYearTrend,Improving,credit
+info_highyield,OneYearTrend,No Change,credit
 info_monsupply,AsOfDate,6/30/2026,credit
 info_monsupply,ChartDateRange,2021-08-31 to 2026-06-30,credit
 info_monsupply,ChartDescription,"The Money Supply chart displays Quartz's Money Supply Score, based on year-over-year growth in the M2 money supply measured against a 6% constant-growth benchmark.",credit
@@ -597,7 +597,7 @@ info_monsupply,ChartMetric,M2 vs 6% Constant Growth,credit
 info_monsupply,ChartSource,Quartz Partners and Federal Reserve (https://fred.stlouisfed.org/series/M2SL),credit
 info_monsupply,CurrentScore,38,credit
 info_monsupply,CurrentValue,2.1897,credit
-info_monsupply,OneYearTrend,Improving,credit
+info_monsupply,OneYearTrend,Weakening,credit
 chart_activity,8/31/2021,60.8,economy
 chart_activity,9/30/2021,61.5,economy
 chart_activity,10/31/2021,63.75,economy
@@ -756,7 +756,7 @@ info_gdp,ChartMetric,Real GDP Growth,economy
 info_gdp,ChartSource,"Federal Reserve (https://fred.stlouisfed.org/series/A191RL1Q225SBEA, https://fred.stlouisfed.org/series/GDPNOW)",economy
 info_gdp,CurrentScore,67,economy
 info_gdp,CurrentValue,4.312,economy
-info_gdp,OneYearTrend,Improving,economy
+info_gdp,OneYearTrend,No Change,economy
 info_inflation,AsOfDate,6/30/2026,economy
 info_inflation,ChartDateRange,2021-08-31 to 2026-06-30,economy
 info_inflation,ChartDescription,"The Inflation chart displays the year-over-year change in the Core Personal Consumption Expenditures (PCE) Price Index, the Federal Reserve's preferred inflation gauge, which excludes volatile food and energy prices.",economy
@@ -766,15 +766,15 @@ info_inflation,ChartMetric,Core PCE (YoY),economy
 info_inflation,ChartSource,U.S. Bureau of Economic Analysis (https://www.bea.gov/data/personal-consumption-expenditures-price-index),economy
 info_inflation,CurrentScore,38,economy
 info_inflation,CurrentValue,3.2865,economy
-info_inflation,OneYearTrend,Improving,economy
+info_inflation,OneYearTrend,Weakening,economy
 info_behavioral,AsOfDate,7/31/2026,summary
 info_behavioral,ChartLabel,Behavioral,summary
 info_behavioral,CurrentScore,53,summary
-info_behavioral,OneYearTrend,Improving,summary
+info_behavioral,OneYearTrend,Weakening,summary
 info_credit,AsOfDate,7/31/2026,summary
 info_credit,ChartLabel,Credit,summary
 info_credit,CurrentScore,67,summary
-info_credit,OneYearTrend,Improving,summary
+info_credit,OneYearTrend,Weakening,summary
 info_economy,AsOfDate,9/30/2026,summary
 info_economy,ChartLabel,Economy,summary
 info_economy,CurrentScore,54,summary
@@ -786,7 +786,7 @@ info_technical,OneYearTrend,Improving,summary
 info_valuation,AsOfDate,7/31/2026,summary
 info_valuation,ChartLabel,Valuation,summary
 info_valuation,CurrentScore,11,summary
-info_valuation,OneYearTrend,Weakening,summary
+info_valuation,OneYearTrend,Improving,summary
 chart_breadth,8/15/2025,52.66,technical
 chart_breadth,8/22/2025,63.07,technical
 chart_breadth,8/29/2025,61.81,technical
@@ -965,7 +965,7 @@ info_momentum,ChartMetric,Quartz S&P 500 Trend Score,technical
 info_momentum,ChartSource,Quartz Partners and S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview),technical
 info_momentum,CurrentScore,72,technical
 info_momentum,CurrentValue,18.5791,technical
-info_momentum,OneYearTrend,Improving,technical
+info_momentum,OneYearTrend,Weakening,technical
 info_volatility,AsOfDate,8/14/2026,technical
 info_volatility,ChartDateRange,2025-08-15 to 2026-08-14,technical
 info_volatility,ChartDescription,"The Volatility chart displays the Cboe 3-Month Volatility Index (VXV), which measures the market's expectation of S&P 500 volatility over the next three months.",technical
@@ -1165,7 +1165,7 @@ info_ev,ChartMetric,S&P 500 EV to EBIT (TTM),valuation
 info_ev,ChartSource,S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview),valuation
 info_ev,CurrentScore,13,valuation
 info_ev,CurrentValue,25.3,valuation
-info_ev,OneYearTrend,Weakening,valuation
+info_ev,OneYearTrend,Improving,valuation
 info_pe,AsOfDate,7/31/2026,valuation
 info_pe,ChartDateRange,2021-08-31 to 2026-07-31,valuation
 info_pe,ChartDescription,The Earnings Valuation chart displays the S&P 500's forward 12-month Price-to-Earnings (P/E) ratio.,valuation
@@ -1175,7 +1175,7 @@ info_pe,ChartMetric,S&P 500 Forward P/E Ratio,valuation
 info_pe,ChartSource,S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview),valuation
 info_pe,CurrentScore,18,valuation
 info_pe,CurrentValue,20.6,valuation
-info_pe,OneYearTrend,Weakening,valuation
+info_pe,OneYearTrend,Improving,valuation
 info_ps,AsOfDate,7/31/2026,valuation
 info_ps,ChartDateRange,2021-08-31 to 2026-07-31,valuation
 info_ps,ChartDescription,The Revenue Valuation chart displays the S&P 500's trailing-twelve-month Price-to-Sales (P/S) ratio.,valuation
