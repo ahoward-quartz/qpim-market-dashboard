@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <div className="mx-auto max-w-300 px-4 py-8">
-        <h1 className="mb-6 text-2xl font-bold">Quartz Capital Markets Outlook</h1>
+        <h2 className="mb-4 border-b pb-2 text-xl font-bold">Summary</h2>
 
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-5">
           {categories.map(({ key, subMetrics, ...summary }) => (

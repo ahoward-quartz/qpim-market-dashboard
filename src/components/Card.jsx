@@ -72,20 +72,20 @@ export function Card({
           <div className="h-40">
             <TimeSeriesChart chartData={chartData} />
           </div>
-          <div className="flex items-center justify-between">
-            {dateRangeLabel ? (
-              <p className="text-xs text-muted-foreground">{dateRangeLabel}</p>
-            ) : (
-              <span />
-            )}
-            <button
-              type="button"
-              onClick={() => setFlipped(true)}
-              className="text-xs text-muted-foreground hover:text-foreground"
-            >
-              &gt; About
-            </button>
-          </div>
+        </div>
+        <div className="flex items-center justify-between border-t px-4 py-3">
+          {dateRangeLabel ? (
+            <p className="text-xs text-muted-foreground">{dateRangeLabel}</p>
+          ) : (
+            <span />
+          )}
+          <button
+            type="button"
+            onClick={() => setFlipped(true)}
+            className="text-xs text-muted-foreground hover:text-foreground"
+          >
+            &gt; About
+          </button>
         </div>
       </CardPrimitive>
     )
@@ -120,15 +120,15 @@ export function Card({
               <p className="text-sm text-muted-foreground">{source}</p>
             </div>
           )}
-          <div className="flex justify-end">
-            <button
-              type="button"
-              onClick={() => setFlipped(false)}
-              className="text-xs text-muted-foreground hover:text-foreground"
-            >
-              &gt; Close
-            </button>
-          </div>
+        </div>
+        <div className="flex items-center justify-end border-t px-4 py-3">
+          <button
+            type="button"
+            onClick={() => setFlipped(false)}
+            className="text-xs text-muted-foreground hover:text-foreground"
+          >
+            &gt; Close
+          </button>
         </div>
       </CardPrimitive>
     )
@@ -146,6 +146,8 @@ export function Card({
         <p className="font-normal" style={{ color: hexColor }}>
           {band.label}
         </p>
+      </div>
+      <div className="flex items-center justify-center border-t px-4 py-3">
         <TrendIndicator trend={trend} />
       </div>
     </CardPrimitive>
