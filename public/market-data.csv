@@ -372,7 +372,7 @@ info_aeo,OneYearTrend,Improving,behavioral
 info_barometer,AsOfDate,7/31/2026,behavioral
 info_barometer,ChartDateRange,2016-08-31 to 2026-07-31,behavioral
 info_barometer,ChartDescription,"The Market Barometer chart displays Quartz's Market Barometer Score, based on the average of Quartz's three Behavioral Market Barometers: US Large Cap, US Small Cap, and International Developed.",behavioral
-info_barometer,ChartInterpretation,"A high Score corresponds to a higher blended expected forward return for equities, a favorable backdrop for risk assets. A low Score corresponds to a lower blended expected forward return, suggesting a more cautious return outlook.",behavioral
+info_barometer,ChartInterpretation,"A high Score corresponds to a higher blended expected forward return for equities and a favorable backdrop for risk assets. A low Score corresponds to a lower blended expected forward return, suggesting a more cautious return outlook.",behavioral
 info_barometer,ChartLabel,Market Barometer,behavioral
 info_barometer,ChartMetric,Blended Expected Equity Market Returns,behavioral
 info_barometer,ChartSource,Quartz Partners,behavioral
@@ -1179,7 +1179,7 @@ info_pe,OneYearTrend,Improving,valuation
 info_ps,AsOfDate,7/31/2026,valuation
 info_ps,ChartDateRange,2021-08-31 to 2026-07-31,valuation
 info_ps,ChartDescription,The Revenue Valuation chart displays the S&P 500's trailing-twelve-month Price-to-Sales (P/S) ratio.,valuation
-info_ps,ChartInterpretation,"A low reading indicates equities are cheap on a revenue basis relative to history, implying more attractive valuation. A high reading indicates equities are expensive relative to top-line revenue, implying elevated valuation risk.",valuation
+info_ps,ChartInterpretation,"A low reading indicates equities are cheap on a revenue basis relative to history, implying more attractive valuations. A high reading indicates equities are expensive relative to top-line revenue, implying elevated valuation risk.",valuation
 info_ps,ChartLabel,Revenue Valuation,valuation
 info_ps,ChartMetric,S&P 500 Price to Sales (TTM),valuation
 info_ps,ChartSource,S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview),valuation
