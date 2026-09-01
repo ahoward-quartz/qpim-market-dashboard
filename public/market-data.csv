@@ -509,28 +509,28 @@ chart_highyield,4/30/2026,2.83,credit
 chart_highyield,5/31/2026,2.74,credit
 chart_highyield,6/30/2026,2.75,credit
 chart_highyield,7/31/2026,2.85,credit
-chart_monsupply,8/31/2021,22.8442,credit
-chart_monsupply,9/30/2021,23.0617,credit
-chart_monsupply,10/31/2021,23.4928,credit
-chart_monsupply,11/30/2021,23.9049,credit
-chart_monsupply,12/31/2021,24.2238,credit
-chart_monsupply,1/31/2022,24.4359,credit
-chart_monsupply,2/28/2022,24.2647,credit
-chart_monsupply,3/31/2022,24.0021,credit
-chart_monsupply,4/30/2022,23.2742,credit
-chart_monsupply,5/31/2022,22.378,credit
-chart_monsupply,6/30/2022,21.3728,credit
-chart_monsupply,7/31/2022,20.7829,credit
+chart_monsupply,8/31/2021,22.8495,credit
+chart_monsupply,9/30/2021,23.0675,credit
+chart_monsupply,10/31/2021,23.498,credit
+chart_monsupply,11/30/2021,23.9101,credit
+chart_monsupply,12/31/2021,24.2284,credit
+chart_monsupply,1/31/2022,24.4416,credit
+chart_monsupply,2/28/2022,24.2698,credit
+chart_monsupply,3/31/2022,24.0073,credit
+chart_monsupply,4/30/2022,23.2788,credit
+chart_monsupply,5/31/2022,22.3814,credit
+chart_monsupply,6/30/2022,21.3745,credit
+chart_monsupply,7/31/2022,20.7834,credit
 chart_monsupply,8/31/2022,20.1414,credit
 chart_monsupply,9/30/2022,18.988,credit
 chart_monsupply,10/31/2022,17.9718,credit
-chart_monsupply,11/30/2022,17.0857,credit
-chart_monsupply,12/31/2022,15.8703,credit
+chart_monsupply,11/30/2022,17.0862,credit
+chart_monsupply,12/31/2022,15.8708,credit
 chart_monsupply,1/31/2023,15.1904,credit
 chart_monsupply,2/28/2023,14.4352,credit
 chart_monsupply,3/31/2023,12.2689,credit
-chart_monsupply,4/30/2023,10.7288,credit
-chart_monsupply,5/31/2023,10.5564,credit
+chart_monsupply,4/30/2023,10.7294,credit
+chart_monsupply,5/31/2023,10.5559,credit
 chart_monsupply,6/30/2023,9.8442,credit
 chart_monsupply,7/31/2023,9.2625,credit
 chart_monsupply,8/31/2023,8.6656,credit
@@ -550,24 +550,25 @@ chart_monsupply,9/30/2024,4.2619,credit
 chart_monsupply,10/31/2024,4.0416,credit
 chart_monsupply,11/30/2024,4.097,credit
 chart_monsupply,12/31/2024,3.7375,credit
-chart_monsupply,1/31/2025,3.4692,credit
-chart_monsupply,2/28/2025,3.2795,credit
+chart_monsupply,1/31/2025,3.4697,credit
+chart_monsupply,2/28/2025,3.28,credit
 chart_monsupply,3/31/2025,3.1314,credit
-chart_monsupply,4/30/2025,3.0291,credit
-chart_monsupply,5/31/2025,2.824,credit
-chart_monsupply,6/30/2025,2.8114,credit
+chart_monsupply,4/30/2025,3.0286,credit
+chart_monsupply,5/31/2025,2.8235,credit
+chart_monsupply,6/30/2025,2.811,credit
 chart_monsupply,7/31/2025,2.686,credit
-chart_monsupply,8/31/2025,2.4859,credit
+chart_monsupply,8/31/2025,2.4864,credit
 chart_monsupply,9/30/2025,2.3619,credit
 chart_monsupply,10/31/2025,2.1911,credit
 chart_monsupply,11/30/2025,1.8198,credit
 chart_monsupply,12/31/2025,1.6566,credit
-chart_monsupply,1/31/2026,1.444,credit
-chart_monsupply,2/28/2026,1.8407,credit
-chart_monsupply,3/31/2026,1.584,credit
-chart_monsupply,4/30/2026,1.6304,credit
-chart_monsupply,5/31/2026,2.2589,credit
-chart_monsupply,6/30/2026,2.1897,credit
+chart_monsupply,1/31/2026,1.4137,credit
+chart_monsupply,2/28/2026,1.7443,credit
+chart_monsupply,3/31/2026,1.424,credit
+chart_monsupply,4/30/2026,1.4378,credit
+chart_monsupply,5/31/2026,2.0739,credit
+chart_monsupply,6/30/2026,2.0132,credit
+chart_monsupply,7/31/2026,1.9571,credit
 info_fincond,AsOfDate,7/31/2026,credit
 info_fincond,ChartDateRange,2021-08-27 to 2026-07-31,credit
 info_fincond,ChartDescription,"The Financial Conditions chart displays the Chicago Fed National Financial Conditions Index (NFCI), a composite measure of risk, credit, and leverage conditions in U.S. money, debt, and equity markets.",credit
@@ -588,15 +589,15 @@ info_highyield,ChartSource,Federal Reserve (https://fred.stlouisfed.org/series/B
 info_highyield,CurrentScore,93,credit
 info_highyield,CurrentValue,2.85,credit
 info_highyield,OneYearTrend,No Change,credit
-info_monsupply,AsOfDate,6/30/2026,credit
-info_monsupply,ChartDateRange,2021-08-31 to 2026-06-30,credit
+info_monsupply,AsOfDate,7/31/2026,credit
+info_monsupply,ChartDateRange,2021-08-31 to 2026-07-31,credit
 info_monsupply,ChartDescription,"The Money Supply chart displays Quartz's Money Supply Score, based on year-over-year growth in the M2 money supply measured against a 6% constant-growth benchmark.",credit
 info_monsupply,ChartInterpretation,"A positive Score corresponds to M2 growth running near or above its long-term constant-growth benchmark, reflecting ample liquidity supportive of asset prices and economic activity. If the Score is very high, this signals there is too much money supply and future inflation is likely but is still positive for equities on balance.  A low Score corresponds to M2 growth running well below the benchmark, reflecting tighter liquidity conditions that can act as a drag on markets and the economy.",credit
 info_monsupply,ChartLabel,Money Supply,credit
 info_monsupply,ChartMetric,M2 vs 6% Constant Growth,credit
 info_monsupply,ChartSource,Quartz Partners and Federal Reserve (https://fred.stlouisfed.org/series/M2SL),credit
-info_monsupply,CurrentScore,38,credit
-info_monsupply,CurrentValue,2.1897,credit
+info_monsupply,CurrentScore,35,credit
+info_monsupply,CurrentValue,1.9571,credit
 info_monsupply,OneYearTrend,Weakening,credit
 chart_activity,8/31/2021,60.8,economy
 chart_activity,9/30/2021,61.5,economy
@@ -677,7 +678,7 @@ chart_gdp,9/30/2025,4.4,economy
 chart_gdp,12/31/2025,0.5,economy
 chart_gdp,3/31/2026,2.1,economy
 chart_gdp,6/30/2026,1.5,economy
-chart_gdp,9/30/2026,4.0302,economy
+chart_gdp,9/30/2026,4.8158,economy
 chart_inflation,8/31/2021,3.9585,economy
 chart_inflation,9/30/2021,4.0139,economy
 chart_inflation,10/31/2021,4.4367,economy
@@ -734,9 +735,10 @@ chart_inflation,12/31/2025,2.9711,economy
 chart_inflation,1/31/2026,3.1047,economy
 chart_inflation,2/28/2026,3.0493,economy
 chart_inflation,3/31/2026,3.2538,economy
-chart_inflation,4/30/2026,3.3155,economy
-chart_inflation,5/31/2026,3.4216,economy
-chart_inflation,6/30/2026,3.2865,economy
+chart_inflation,4/30/2026,3.3298,economy
+chart_inflation,5/31/2026,3.4637,economy
+chart_inflation,6/30/2026,3.3436,economy
+chart_inflation,7/31/2026,3.3441,economy
 info_activity,AsOfDate,7/31/2026,economy
 info_activity,ChartDateRange,2021-08-31 to 2026-07-31,economy
 info_activity,ChartDescription,"The Economic Activity chart displays Quartz's Economic Activity Score, based on a blended measure of current U.S. goods and services economic activity.",economy
@@ -754,18 +756,18 @@ info_gdp,ChartInterpretation,"A high reading reflects above-trend, healthy econo
 info_gdp,ChartLabel,GDP Growth,economy
 info_gdp,ChartMetric,Real GDP Growth,economy
 info_gdp,ChartSource,"Federal Reserve (https://fred.stlouisfed.org/series/A191RL1Q225SBEA, https://fred.stlouisfed.org/series/GDPNOW)",economy
-info_gdp,CurrentScore,64,economy
-info_gdp,CurrentValue,4.0302,economy
-info_gdp,OneYearTrend,Weakening,economy
-info_inflation,AsOfDate,6/30/2026,economy
-info_inflation,ChartDateRange,2021-08-31 to 2026-06-30,economy
+info_gdp,CurrentScore,73,economy
+info_gdp,CurrentValue,4.8158,economy
+info_gdp,OneYearTrend,Improving,economy
+info_inflation,AsOfDate,7/31/2026,economy
+info_inflation,ChartDateRange,2021-08-31 to 2026-07-31,economy
 info_inflation,ChartDescription,"The Inflation chart displays the year-over-year change in the Core Personal Consumption Expenditures (PCE) Price Index, the Federal Reserve's preferred inflation gauge, which excludes volatile food and energy prices.",economy
 info_inflation,ChartInterpretation,"A low reading reflects inflation running close to the Fed's 2% target, a favorable backdrop for markets and monetary policy. A high reading reflects inflation running well above target, raising the risk of continued restrictive Fed policy or economic disruption, although above average inflation normally results in above average nominal equity returns over time.",economy
 info_inflation,ChartLabel,Inflation,economy
 info_inflation,ChartMetric,Core PCE (YoY),economy
 info_inflation,ChartSource,U.S. Bureau of Economic Analysis (https://www.bea.gov/data/personal-consumption-expenditures-price-index),economy
 info_inflation,CurrentScore,38,economy
-info_inflation,CurrentValue,3.2865,economy
+info_inflation,CurrentValue,3.3441,economy
 info_inflation,OneYearTrend,Weakening,economy
 info_behavioral,AsOfDate,7/31/2026,summary
 info_behavioral,ChartLabel,Behavioral,summary
@@ -773,21 +775,20 @@ info_behavioral,CurrentScore,53,summary
 info_behavioral,OneYearTrend,Weakening,summary
 info_credit,AsOfDate,7/31/2026,summary
 info_credit,ChartLabel,Credit,summary
-info_credit,CurrentScore,66,summary
+info_credit,CurrentScore,65,summary
 info_credit,OneYearTrend,Weakening,summary
 info_economy,AsOfDate,9/30/2026,summary
 info_economy,ChartLabel,Economy,summary
-info_economy,CurrentScore,53,summary
+info_economy,CurrentScore,56,summary
 info_economy,OneYearTrend,Improving,summary
-info_technical,AsOfDate,8/21/2026,summary
+info_technical,AsOfDate,8/28/2026,summary
 info_technical,ChartLabel,Technical,summary
-info_technical,CurrentScore,63,summary
+info_technical,CurrentScore,62,summary
 info_technical,OneYearTrend,Weakening,summary
 info_valuation,AsOfDate,7/31/2026,summary
 info_valuation,ChartLabel,Valuation,summary
 info_valuation,CurrentScore,11,summary
 info_valuation,OneYearTrend,Improving,summary
-chart_breadth,8/22/2025,63.07,technical
 chart_breadth,8/29/2025,61.81,technical
 chart_breadth,9/5/2025,62.52,technical
 chart_breadth,9/12/2025,60.75,technical
@@ -840,7 +841,7 @@ chart_breadth,7/31/2026,69.81,technical
 chart_breadth,8/7/2026,73.61,technical
 chart_breadth,8/14/2026,73.23,technical
 chart_breadth,8/21/2026,69.03,technical
-chart_momentum,8/22/2025,21.6867,technical
+chart_breadth,8/28/2026,66.53,technical
 chart_momentum,8/29/2025,23.8254,technical
 chart_momentum,9/5/2025,22.9306,technical
 chart_momentum,9/12/2025,27.429,technical
@@ -893,7 +894,7 @@ chart_momentum,7/31/2026,17.1414,technical
 chart_momentum,8/7/2026,19.5423,technical
 chart_momentum,8/14/2026,18.5791,technical
 chart_momentum,8/21/2026,15.2691,technical
-chart_volatility,8/22/2025,17.76,technical
+chart_momentum,8/28/2026,13.7653,technical
 chart_volatility,8/29/2025,18.35,technical
 chart_volatility,9/5/2025,18.42,technical
 chart_volatility,9/12/2025,18.06,technical
@@ -946,36 +947,37 @@ chart_volatility,7/31/2026,19.02,technical
 chart_volatility,8/7/2026,18.72,technical
 chart_volatility,8/14/2026,18.46,technical
 chart_volatility,8/21/2026,18.5,technical
-info_breadth,AsOfDate,8/21/2026,technical
-info_breadth,ChartDateRange,2025-08-22 to 2026-08-21,technical
+chart_volatility,8/28/2026,17.48,technical
+info_breadth,AsOfDate,8/28/2026,technical
+info_breadth,ChartDateRange,2025-08-29 to 2026-08-28,technical
 info_breadth,ChartDescription,The Breadth chart displays the percentage of S&P 1500 constituent stocks trading above their 200-day moving average. The metric is updated weekly.,technical
 info_breadth,ChartInterpretation,"A high Breadth reading means that a large proportion of stocks in the broad market are participating in the current trend, reflecting a healthy, broad-based advance. A low Breadth reading means that fewer stocks are trading above their long-term trend line, which can signal a narrow, less durable market rally even if the headline index is rising.",technical
 info_breadth,ChartLabel,Breadth,technical
 info_breadth,ChartMetric,S&P 1500 % of Stocks Above 200-Day MA,technical
 info_breadth,ChartSource,S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-composite-1500/#overview),technical
-info_breadth,CurrentScore,70,technical
-info_breadth,CurrentValue,69.03,technical
+info_breadth,CurrentScore,63,technical
+info_breadth,CurrentValue,66.53,technical
 info_breadth,OneYearTrend,Improving,technical
-info_momentum,AsOfDate,8/21/2026,technical
-info_momentum,ChartDateRange,2025-08-22 to 2026-08-21,technical
+info_momentum,AsOfDate,8/28/2026,technical
+info_momentum,ChartDateRange,2025-08-29 to 2026-08-28,technical
 info_momentum,ChartDescription,"The Momentum chart displays Quartz's proprietary Momentum Score, which is calculated using 1-month, 3-month, 6-month, and 12-month trailing returns on the S&P 500 Price Index. The Score is updated and displayed on a weekly basis.",technical
 info_momentum,ChartInterpretation,A high positive Momentum Score means that the equity market is in a favorable upward trend while a negative Score means that the market is in a downward trend. Scores further away from zero indicate stronger trends while scores close to zero indicate that the Momentum factor is not currently driving the market in either direction.,technical
 info_momentum,ChartLabel,Momentum,technical
 info_momentum,ChartMetric,Quartz S&P 500 Trend Score,technical
 info_momentum,ChartSource,Quartz Partners and S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview),technical
-info_momentum,CurrentScore,65,technical
-info_momentum,CurrentValue,15.2691,technical
+info_momentum,CurrentScore,61,technical
+info_momentum,CurrentValue,13.7653,technical
 info_momentum,OneYearTrend,Weakening,technical
-info_volatility,AsOfDate,8/21/2026,technical
-info_volatility,ChartDateRange,2025-08-22 to 2026-08-21,technical
+info_volatility,AsOfDate,8/28/2026,technical
+info_volatility,ChartDateRange,2025-08-29 to 2026-08-28,technical
 info_volatility,ChartDescription,"The Volatility chart displays the Cboe 3-Month Volatility Index (VXV), which measures the market's expectation of S&P 500 volatility over the next three months.",technical
 info_volatility,ChartInterpretation,"A low Volatility reading corresponds to low expected/implied volatility, reflecting calm market conditions that are typically favorable for equities. A high Volatility reading corresponds to elevated expected volatility, reflecting investor uncertainty or stress, which has historically coincided with market drawdowns.",technical
 info_volatility,ChartLabel,Volatility,technical
 info_volatility,ChartMetric,CBOE 3-Month Volatility Index,technical
 info_volatility,ChartSource,Cboe Global Markets (https://www.cboe.com/us/indices/dashboard/vxv/),technical
-info_volatility,CurrentScore,55,technical
-info_volatility,CurrentValue,18.5,technical
-info_volatility,OneYearTrend,Weakening,technical
+info_volatility,CurrentScore,62,technical
+info_volatility,CurrentValue,17.48,technical
+info_volatility,OneYearTrend,Improving,technical
 chart_ev,8/31/2021,26.1,valuation
 chart_ev,9/30/2021,23.3,valuation
 chart_ev,10/31/2021,24.4,valuation
