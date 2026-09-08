@@ -131,43 +131,43 @@ chart_barometer,5/31/2017,10.3333,behavioral
 chart_barometer,6/30/2017,11.6667,behavioral
 chart_barometer,7/31/2017,11,behavioral
 chart_barometer,8/31/2017,10.3333,behavioral
-chart_barometer,9/30/2017,9,behavioral
+chart_barometer,9/30/2017,10,behavioral
 chart_barometer,10/31/2017,9.6667,behavioral
 chart_barometer,11/30/2017,10,behavioral
 chart_barometer,12/31/2017,9.6667,behavioral
-chart_barometer,1/31/2018,9.5,behavioral
+chart_barometer,1/31/2018,9.3333,behavioral
 chart_barometer,2/28/2018,9,behavioral
-chart_barometer,3/31/2018,8.5,behavioral
+chart_barometer,3/31/2018,8.3333,behavioral
 chart_barometer,4/30/2018,8.6667,behavioral
 chart_barometer,5/31/2018,9.6667,behavioral
 chart_barometer,6/30/2018,9.3333,behavioral
-chart_barometer,7/31/2018,8.5,behavioral
-chart_barometer,8/31/2018,8,behavioral
-chart_barometer,9/30/2018,7.5,behavioral
+chart_barometer,7/31/2018,9,behavioral
+chart_barometer,8/31/2018,9,behavioral
+chart_barometer,9/30/2018,8.3333,behavioral
 chart_barometer,10/31/2018,8.3333,behavioral
 chart_barometer,11/30/2018,8.3333,behavioral
 chart_barometer,12/31/2018,8.3333,behavioral
 chart_barometer,1/31/2019,8.6667,behavioral
 chart_barometer,2/28/2019,10.3333,behavioral
 chart_barometer,3/31/2019,10,behavioral
-chart_barometer,4/30/2019,9.5,behavioral
+chart_barometer,4/30/2019,10,behavioral
 chart_barometer,5/31/2019,9.3333,behavioral
 chart_barometer,6/30/2019,8.6667,behavioral
 chart_barometer,7/31/2019,9,behavioral
-chart_barometer,8/31/2019,8,behavioral
+chart_barometer,8/31/2019,8.3333,behavioral
 chart_barometer,9/30/2019,9.3333,behavioral
 chart_barometer,10/31/2019,9.3333,behavioral
 chart_barometer,11/30/2019,10,behavioral
 chart_barometer,12/31/2019,10,behavioral
-chart_barometer,1/31/2020,9.5,behavioral
-chart_barometer,2/29/2020,8.5,behavioral
-chart_barometer,3/31/2020,7,behavioral
-chart_barometer,4/30/2020,7,behavioral
-chart_barometer,5/31/2020,11,behavioral
-chart_barometer,6/30/2020,11,behavioral
+chart_barometer,1/31/2020,9.3333,behavioral
+chart_barometer,2/29/2020,8.6667,behavioral
+chart_barometer,3/31/2020,7.6667,behavioral
+chart_barometer,4/30/2020,7.6667,behavioral
+chart_barometer,5/31/2020,10,behavioral
+chart_barometer,6/30/2020,10,behavioral
 chart_barometer,7/31/2020,9.6667,behavioral
 chart_barometer,8/31/2020,10.3333,behavioral
-chart_barometer,9/30/2020,10.5,behavioral
+chart_barometer,9/30/2020,9.3333,behavioral
 chart_barometer,10/31/2020,10.6667,behavioral
 chart_barometer,11/30/2020,11.3333,behavioral
 chart_barometer,12/31/2020,12.3333,behavioral
@@ -176,7 +176,7 @@ chart_barometer,2/28/2021,13,behavioral
 chart_barometer,3/31/2021,12.6667,behavioral
 chart_barometer,4/30/2021,12.3333,behavioral
 chart_barometer,5/31/2021,12.3333,behavioral
-chart_barometer,6/30/2021,13,behavioral
+chart_barometer,6/30/2021,12.3333,behavioral
 chart_barometer,7/31/2021,13,behavioral
 chart_barometer,8/31/2021,12,behavioral
 chart_barometer,9/30/2021,12.3333,behavioral
@@ -197,9 +197,9 @@ chart_barometer,11/30/2022,8,behavioral
 chart_barometer,12/31/2022,8.3333,behavioral
 chart_barometer,1/31/2023,8.6667,behavioral
 chart_barometer,2/28/2023,8.6667,behavioral
-chart_barometer,3/31/2023,7.5,behavioral
-chart_barometer,4/30/2023,7,behavioral
-chart_barometer,5/31/2023,7,behavioral
+chart_barometer,3/31/2023,8.6667,behavioral
+chart_barometer,4/30/2023,8.3333,behavioral
+chart_barometer,5/31/2023,8.3333,behavioral
 chart_barometer,6/30/2023,9.3333,behavioral
 chart_barometer,7/31/2023,9.6667,behavioral
 chart_barometer,8/31/2023,11.3333,behavioral
@@ -211,7 +211,7 @@ chart_barometer,1/31/2024,12,behavioral
 chart_barometer,2/29/2024,11.6667,behavioral
 chart_barometer,3/31/2024,12.3333,behavioral
 chart_barometer,4/30/2024,12.3333,behavioral
-chart_barometer,5/31/2024,12,behavioral
+chart_barometer,5/31/2024,12.6667,behavioral
 chart_barometer,6/30/2024,11.6667,behavioral
 chart_barometer,7/31/2024,12,behavioral
 chart_barometer,8/31/2024,11.6667,behavioral
@@ -226,7 +226,7 @@ chart_barometer,4/30/2025,13.6667,behavioral
 chart_barometer,5/31/2025,13.6667,behavioral
 chart_barometer,6/30/2025,14.6667,behavioral
 chart_barometer,7/31/2025,15,behavioral
-chart_barometer,8/31/2025,12.5,behavioral
+chart_barometer,8/31/2025,13,behavioral
 chart_barometer,9/30/2025,14,behavioral
 chart_barometer,10/31/2025,13,behavioral
 chart_barometer,11/30/2025,12.3333,behavioral
@@ -238,7 +238,7 @@ chart_barometer,4/30/2026,12.3333,behavioral
 chart_barometer,5/31/2026,12.3333,behavioral
 chart_barometer,6/30/2026,12.3333,behavioral
 chart_barometer,7/31/2026,11.6667,behavioral
-chart_barometer,8/31/2026,8.5,behavioral
+chart_barometer,8/31/2026,11.3333,behavioral
 chart_preference,9/30/2016,67,behavioral
 chart_preference,10/31/2016,63,behavioral
 chart_preference,11/30/2016,48,behavioral
@@ -376,8 +376,8 @@ info_barometer,ChartInterpretation,"A high Score corresponds to a higher blended
 info_barometer,ChartLabel,Market Barometer,behavioral
 info_barometer,ChartMetric,Blended Expected Equity Market Returns,behavioral
 info_barometer,ChartSource,Quartz Partners,behavioral
-info_barometer,CurrentScore,15,behavioral
-info_barometer,CurrentValue,8.5,behavioral
+info_barometer,CurrentScore,60,behavioral
+info_barometer,CurrentValue,11.3333,behavioral
 info_barometer,OneYearTrend,Weakening,behavioral
 info_preference,AsOfDate,8/31/2026,behavioral
 info_preference,ChartDateRange,2016-09-30 to 2026-08-31,behavioral
@@ -769,7 +769,7 @@ info_inflation,CurrentValue,3.3441,economy
 info_inflation,OneYearTrend,Weakening,economy
 info_behavioral,AsOfDate,8/31/2026,summary
 info_behavioral,ChartLabel,Behavioral,summary
-info_behavioral,CurrentScore,35,summary
+info_behavioral,CurrentScore,50,summary
 info_behavioral,OneYearTrend,Weakening,summary
 info_credit,AsOfDate,8/31/2026,summary
 info_credit,ChartLabel,Credit,summary
