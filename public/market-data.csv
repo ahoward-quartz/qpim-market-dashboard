@@ -1,5 +1,4 @@
 dataset,label,value,category
-chart_aeo,8/31/2016,-11.3199,behavioral
 chart_aeo,9/30/2016,-9.7025,behavioral
 chart_aeo,10/31/2016,-7.2526,behavioral
 chart_aeo,11/30/2016,-9.221,behavioral
@@ -119,7 +118,7 @@ chart_aeo,4/30/2026,24.581,behavioral
 chart_aeo,5/31/2026,26.5483,behavioral
 chart_aeo,6/30/2026,29.3541,behavioral
 chart_aeo,7/31/2026,27.2007,behavioral
-chart_barometer,8/31/2016,8.5,behavioral
+chart_aeo,8/31/2026,27.9293,behavioral
 chart_barometer,9/30/2016,10,behavioral
 chart_barometer,10/31/2016,10,behavioral
 chart_barometer,11/30/2016,10,behavioral
@@ -239,11 +238,11 @@ chart_barometer,4/30/2026,12.3333,behavioral
 chart_barometer,5/31/2026,12.3333,behavioral
 chart_barometer,6/30/2026,12.3333,behavioral
 chart_barometer,7/31/2026,11.6667,behavioral
-chart_preference,8/31/2016,48,behavioral
+chart_barometer,8/31/2026,8.5,behavioral
 chart_preference,9/30/2016,67,behavioral
 chart_preference,10/31/2016,63,behavioral
 chart_preference,11/30/2016,48,behavioral
-chart_preference,12/31/2016,48,behavioral
+chart_preference,12/31/2016,49,behavioral
 chart_preference,1/31/2017,67,behavioral
 chart_preference,2/28/2017,89,behavioral
 chart_preference,3/31/2017,82,behavioral
@@ -264,7 +263,7 @@ chart_preference,5/31/2018,51,behavioral
 chart_preference,6/30/2018,61,behavioral
 chart_preference,7/31/2018,43,behavioral
 chart_preference,8/31/2018,51,behavioral
-chart_preference,9/30/2018,43,behavioral
+chart_preference,9/30/2018,44,behavioral
 chart_preference,10/31/2018,34,behavioral
 chart_preference,11/30/2018,34,behavioral
 chart_preference,12/31/2018,34,behavioral
@@ -273,7 +272,7 @@ chart_preference,2/28/2019,52,behavioral
 chart_preference,3/31/2019,52,behavioral
 chart_preference,4/30/2019,52,behavioral
 chart_preference,5/31/2019,44,behavioral
-chart_preference,6/30/2019,33,behavioral
+chart_preference,6/30/2019,34,behavioral
 chart_preference,7/31/2019,51,behavioral
 chart_preference,8/31/2019,33,behavioral
 chart_preference,9/30/2019,44,behavioral
@@ -285,14 +284,14 @@ chart_preference,2/29/2020,27,behavioral
 chart_preference,3/31/2020,13,behavioral
 chart_preference,4/30/2020,13,behavioral
 chart_preference,5/31/2020,27,behavioral
-chart_preference,6/30/2020,27,behavioral
+chart_preference,6/30/2020,28,behavioral
 chart_preference,7/31/2020,21,behavioral
 chart_preference,8/31/2020,33,behavioral
 chart_preference,9/30/2020,21,behavioral
 chart_preference,10/31/2020,21,behavioral
 chart_preference,11/30/2020,21,behavioral
 chart_preference,12/31/2020,44,behavioral
-chart_preference,1/31/2021,44,behavioral
+chart_preference,1/31/2021,45,behavioral
 chart_preference,2/28/2021,62,behavioral
 chart_preference,3/31/2021,62,behavioral
 chart_preference,4/30/2021,62,behavioral
@@ -308,27 +307,27 @@ chart_preference,1/31/2022,33,behavioral
 chart_preference,2/28/2022,28,behavioral
 chart_preference,3/31/2022,21,behavioral
 chart_preference,4/30/2022,12,behavioral
-chart_preference,5/31/2022,10,behavioral
+chart_preference,5/31/2022,9,behavioral
 chart_preference,6/30/2022,5,behavioral
 chart_preference,7/31/2022,9,behavioral
-chart_preference,8/31/2022,5,behavioral
+chart_preference,8/31/2022,4,behavioral
 chart_preference,9/30/2022,5,behavioral
 chart_preference,10/31/2022,5,behavioral
 chart_preference,11/30/2022,5,behavioral
 chart_preference,12/31/2022,5,behavioral
-chart_preference,1/31/2023,7,behavioral
-chart_preference,2/28/2023,7,behavioral
+chart_preference,1/31/2023,8,behavioral
+chart_preference,2/28/2023,8,behavioral
 chart_preference,3/31/2023,12,behavioral
 chart_preference,4/30/2023,9,behavioral
 chart_preference,5/31/2023,9,behavioral
 chart_preference,6/30/2023,18,behavioral
 chart_preference,7/31/2023,13,behavioral
 chart_preference,8/31/2023,18,behavioral
-chart_preference,9/30/2023,20,behavioral
+chart_preference,9/30/2023,21,behavioral
 chart_preference,10/31/2023,13,behavioral
 chart_preference,11/30/2023,28,behavioral
 chart_preference,12/31/2023,45,behavioral
-chart_preference,1/31/2024,32,behavioral
+chart_preference,1/31/2024,33,behavioral
 chart_preference,2/29/2024,33,behavioral
 chart_preference,3/31/2024,45,behavioral
 chart_preference,4/30/2024,50,behavioral
@@ -344,52 +343,52 @@ chart_preference,1/31/2025,62,behavioral
 chart_preference,2/28/2025,45,behavioral
 chart_preference,3/31/2025,28,behavioral
 chart_preference,4/30/2025,28,behavioral
-chart_preference,5/31/2025,45,behavioral
+chart_preference,5/31/2025,46,behavioral
 chart_preference,6/30/2025,49,behavioral
 chart_preference,7/31/2025,62,behavioral
 chart_preference,8/31/2025,50,behavioral
 chart_preference,9/30/2025,33,behavioral
-chart_preference,10/31/2025,17,behavioral
-chart_preference,11/30/2025,12,behavioral
+chart_preference,10/31/2025,18,behavioral
+chart_preference,11/30/2025,13,behavioral
 chart_preference,12/31/2025,13,behavioral
-chart_preference,1/31/2026,7,behavioral
-chart_preference,2/28/2026,9,behavioral
-chart_preference,3/31/2026,9,behavioral
+chart_preference,1/31/2026,8,behavioral
+chart_preference,2/28/2026,8,behavioral
+chart_preference,3/31/2026,8,behavioral
 chart_preference,4/30/2026,12,behavioral
-chart_preference,5/31/2026,10,behavioral
-chart_preference,6/30/2026,10,behavioral
-chart_preference,7/31/2026,6,behavioral
-info_aeo,AsOfDate,7/31/2026,behavioral
-info_aeo,ChartDateRange,2016-08-31 to 2026-07-31,behavioral
+chart_preference,5/31/2026,8,behavioral
+chart_preference,6/30/2026,9,behavioral
+chart_preference,7/31/2026,4,behavioral
+chart_preference,8/31/2026,4,behavioral
+info_aeo,AsOfDate,8/31/2026,behavioral
+info_aeo,ChartDateRange,2016-09-30 to 2026-08-31,behavioral
 info_aeo,ChartDescription,"The Market Type chart displays Quartz's Market Type Score, based on the Active Equity Opportunity metric, which gauges the degree of dispersion/differentiation among individual stock returns within the market.",behavioral
 info_aeo,ChartInterpretation,"A high Score indicates elevated dispersion among individual stocks, a market environment where stock-picking (active management) has more opportunity to add value. A low Score indicates stocks are moving more uniformly together (higher correlation), an environment that is typically more favorable to passive/index-based exposure.",behavioral
 info_aeo,ChartLabel,Market Type,behavioral
 info_aeo,ChartMetric,Active Equity Opportunity,behavioral
 info_aeo,ChartSource,Quartz Partners,behavioral
 info_aeo,CurrentScore,86,behavioral
-info_aeo,CurrentValue,27.2007,behavioral
+info_aeo,CurrentValue,27.9293,behavioral
 info_aeo,OneYearTrend,Improving,behavioral
-info_barometer,AsOfDate,7/31/2026,behavioral
-info_barometer,ChartDateRange,2016-08-31 to 2026-07-31,behavioral
+info_barometer,AsOfDate,8/31/2026,behavioral
+info_barometer,ChartDateRange,2016-09-30 to 2026-08-31,behavioral
 info_barometer,ChartDescription,"The Market Barometer chart displays Quartz's Market Barometer Score, based on the average of Quartz's three Behavioral Market Barometers: US Large Cap, US Small Cap, and International Developed.",behavioral
 info_barometer,ChartInterpretation,"A high Score corresponds to a higher blended expected forward return for equities and a favorable backdrop for risk assets. A low Score corresponds to a lower blended expected forward return, suggesting a more cautious return outlook.",behavioral
 info_barometer,ChartLabel,Market Barometer,behavioral
 info_barometer,ChartMetric,Blended Expected Equity Market Returns,behavioral
 info_barometer,ChartSource,Quartz Partners,behavioral
-info_barometer,CurrentScore,67,behavioral
-info_barometer,CurrentValue,11.6667,behavioral
+info_barometer,CurrentScore,15,behavioral
+info_barometer,CurrentValue,8.5,behavioral
 info_barometer,OneYearTrend,Weakening,behavioral
-info_preference,AsOfDate,7/31/2026,behavioral
-info_preference,ChartDateRange,2016-08-31 to 2026-07-31,behavioral
+info_preference,AsOfDate,8/31/2026,behavioral
+info_preference,ChartDateRange,2016-09-30 to 2026-08-31,behavioral
 info_preference,ChartDescription,"The Equity Preference chart displays Quartz's Equity Preference Score, based on the ranking of current investor preference for equity strategies versus the ranking of long-term investor preference for equity strategies.",behavioral
 info_preference,ChartInterpretation,"A high Score indicates an allocation favoring equities over cash equivalents (a risk-on posture), while a low Score indicates an allocation favoring cash equivalents over equities (a more cautious or risk-off posture).",behavioral
 info_preference,ChartLabel,Equity Preference,behavioral
 info_preference,ChartMetric,Investor Preference for Equities,behavioral
 info_preference,ChartSource,Quartz Partners,behavioral
-info_preference,CurrentScore,6,behavioral
-info_preference,CurrentValue,6,behavioral
+info_preference,CurrentScore,4,behavioral
+info_preference,CurrentValue,4,behavioral
 info_preference,OneYearTrend,Weakening,behavioral
-chart_fincond,8/27/2021,-0.646,credit
 chart_fincond,9/24/2021,-0.652,credit
 chart_fincond,10/29/2021,-0.62,credit
 chart_fincond,11/26/2021,-0.55,credit
@@ -449,7 +448,7 @@ chart_fincond,4/24/2026,-0.489,credit
 chart_fincond,5/29/2026,-0.495,credit
 chart_fincond,6/26/2026,-0.511,credit
 chart_fincond,7/31/2026,-0.549,credit
-chart_highyield,8/31/2021,3.21,credit
+chart_fincond,8/28/2026,-0.558,credit
 chart_highyield,9/30/2021,3.15,credit
 chart_highyield,10/31/2021,3.15,credit
 chart_highyield,11/30/2021,3.67,credit
@@ -509,7 +508,7 @@ chart_highyield,4/30/2026,2.83,credit
 chart_highyield,5/31/2026,2.74,credit
 chart_highyield,6/30/2026,2.75,credit
 chart_highyield,7/31/2026,2.85,credit
-chart_monsupply,8/31/2021,22.8495,credit
+chart_highyield,8/31/2026,2.63,credit
 chart_monsupply,9/30/2021,23.0675,credit
 chart_monsupply,10/31/2021,23.498,credit
 chart_monsupply,11/30/2021,23.9101,credit
@@ -569,28 +568,28 @@ chart_monsupply,4/30/2026,1.4378,credit
 chart_monsupply,5/31/2026,2.0739,credit
 chart_monsupply,6/30/2026,2.0132,credit
 chart_monsupply,7/31/2026,1.9571,credit
-info_fincond,AsOfDate,7/31/2026,credit
-info_fincond,ChartDateRange,2021-08-27 to 2026-07-31,credit
+info_fincond,AsOfDate,8/28/2026,credit
+info_fincond,ChartDateRange,2021-09-24 to 2026-08-28,credit
 info_fincond,ChartDescription,"The Financial Conditions chart displays the Chicago Fed National Financial Conditions Index (NFCI), a composite measure of risk, credit, and leverage conditions in U.S. money, debt, and equity markets.",credit
 info_fincond,ChartInterpretation,"A negative NFCI reading corresponds to looser-than-average financial conditions, which is supportive of economic growth and risk assets. A positive NFCI reading corresponds to tighter-than-average conditions, which acts as a headwind and has historically preceded economic slowdowns.",credit
 info_fincond,ChartLabel,Financial Conditions,credit
 info_fincond,ChartMetric,Chicago Financial Conditions Index,credit
 info_fincond,ChartSource,Federal Reserve (https://fred.stlouisfed.org/series/NFCI),credit
-info_fincond,CurrentScore,68,credit
-info_fincond,CurrentValue,-0.549,credit
+info_fincond,CurrentScore,70,credit
+info_fincond,CurrentValue,-0.558,credit
 info_fincond,OneYearTrend,Improving,credit
-info_highyield,AsOfDate,7/31/2026,credit
-info_highyield,ChartDateRange,2021-08-31 to 2026-07-31,credit
+info_highyield,AsOfDate,8/31/2026,credit
+info_highyield,ChartDateRange,2021-09-30 to 2026-08-31,credit
 info_highyield,ChartDescription,"The High-Yield Spread chart displays the ICE BofA US High Yield Index option-adjusted spread, the extra yield high-yield (""junk"") corporate bonds pay over comparable-maturity U.S. Treasuries.",credit
 info_highyield,ChartInterpretation,"A low reading corresponds to a narrow/tightening spread, signaling investor confidence and easy credit conditions, which is favorable for risk assets. A high reading corresponds to a  wide/widening spread, signaling rising credit risk and tightening financial conditions, which is often a leading indicator of economic stress.",credit
 info_highyield,ChartLabel,High-Yield Spread,credit
 info_highyield,ChartMetric,ICE BofA US High Yield Index,credit
 info_highyield,ChartSource,Federal Reserve (https://fred.stlouisfed.org/series/BAMLH0A0HYM2),credit
-info_highyield,CurrentScore,93,credit
-info_highyield,CurrentValue,2.85,credit
-info_highyield,OneYearTrend,No Change,credit
+info_highyield,CurrentScore,99,credit
+info_highyield,CurrentValue,2.63,credit
+info_highyield,OneYearTrend,Improving,credit
 info_monsupply,AsOfDate,7/31/2026,credit
-info_monsupply,ChartDateRange,2021-08-31 to 2026-07-31,credit
+info_monsupply,ChartDateRange,2021-09-30 to 2026-07-31,credit
 info_monsupply,ChartDescription,"The Money Supply chart displays Quartz's Money Supply Score, based on year-over-year growth in the M2 money supply measured against a 6% constant-growth benchmark.",credit
 info_monsupply,ChartInterpretation,"A positive Score corresponds to M2 growth running near or above its long-term constant-growth benchmark, reflecting ample liquidity supportive of asset prices and economic activity. If the Score is very high, this signals there is too much money supply and future inflation is likely but is still positive for equities on balance.  A low Score corresponds to M2 growth running well below the benchmark, reflecting tighter liquidity conditions that can act as a drag on markets and the economy.",credit
 info_monsupply,ChartLabel,Money Supply,credit
@@ -599,7 +598,6 @@ info_monsupply,ChartSource,Quartz Partners and Federal Reserve (https://fred.stl
 info_monsupply,CurrentScore,35,credit
 info_monsupply,CurrentValue,1.9571,credit
 info_monsupply,OneYearTrend,Weakening,credit
-chart_activity,8/31/2021,60.8,economy
 chart_activity,9/30/2021,61.5,economy
 chart_activity,10/31/2021,63.75,economy
 chart_activity,11/30/2021,65.1,economy
@@ -659,6 +657,7 @@ chart_activity,4/30/2026,53.15,economy
 chart_activity,5/31/2026,54.25,economy
 chart_activity,6/30/2026,53.65,economy
 chart_activity,7/31/2026,54.85,economy
+chart_activity,8/31/2026,55,economy
 chart_gdp,12/31/2021,7,economy
 chart_gdp,3/31/2022,-1,economy
 chart_gdp,6/30/2022,0.6,economy
@@ -678,8 +677,7 @@ chart_gdp,9/30/2025,4.4,economy
 chart_gdp,12/31/2025,0.5,economy
 chart_gdp,3/31/2026,2.1,economy
 chart_gdp,6/30/2026,1.5,economy
-chart_gdp,9/30/2026,4.8158,economy
-chart_inflation,8/31/2021,3.9585,economy
+chart_gdp,9/30/2026,4.7487,economy
 chart_inflation,9/30/2021,4.0139,economy
 chart_inflation,10/31/2021,4.4367,economy
 chart_inflation,11/30/2021,4.8909,economy
@@ -739,15 +737,15 @@ chart_inflation,4/30/2026,3.3298,economy
 chart_inflation,5/31/2026,3.4637,economy
 chart_inflation,6/30/2026,3.3436,economy
 chart_inflation,7/31/2026,3.3441,economy
-info_activity,AsOfDate,7/31/2026,economy
-info_activity,ChartDateRange,2021-08-31 to 2026-07-31,economy
+info_activity,AsOfDate,8/31/2026,economy
+info_activity,ChartDateRange,2021-09-30 to 2026-08-31,economy
 info_activity,ChartDescription,"The Economic Activity chart displays Quartz's Economic Activity Score, based on a blended measure of current U.S. goods and services economic activity.",economy
 info_activity,ChartInterpretation,"A high Score reflects expansionary, strengthening economic activity, which is generally supportive of corporate earnings and risk assets. A low Score reflects contracting or weakening activity, which can be an early signal of an economic slowdown.",economy
 info_activity,ChartLabel,Economic Activity,economy
 info_activity,ChartMetric,Goods and Services Activity,economy
 info_activity,ChartSource,Quartz Partners and Institute for Supply Management (https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/),economy
-info_activity,CurrentScore,57,economy
-info_activity,CurrentValue,54.85,economy
+info_activity,CurrentScore,58,economy
+info_activity,CurrentValue,55,economy
 info_activity,OneYearTrend,Improving,economy
 info_gdp,AsOfDate,9/30/2026,economy
 info_gdp,ChartDateRange,2021-12-31 to 2026-09-30,economy
@@ -756,11 +754,11 @@ info_gdp,ChartInterpretation,"A high reading reflects above-trend, healthy econo
 info_gdp,ChartLabel,GDP Growth,economy
 info_gdp,ChartMetric,Real GDP Growth,economy
 info_gdp,ChartSource,"Federal Reserve (https://fred.stlouisfed.org/series/A191RL1Q225SBEA, https://fred.stlouisfed.org/series/GDPNOW)",economy
-info_gdp,CurrentScore,73,economy
-info_gdp,CurrentValue,4.8158,economy
+info_gdp,CurrentScore,72,economy
+info_gdp,CurrentValue,4.7487,economy
 info_gdp,OneYearTrend,Improving,economy
 info_inflation,AsOfDate,7/31/2026,economy
-info_inflation,ChartDateRange,2021-08-31 to 2026-07-31,economy
+info_inflation,ChartDateRange,2021-09-30 to 2026-07-31,economy
 info_inflation,ChartDescription,"The Inflation chart displays the year-over-year change in the Core Personal Consumption Expenditures (PCE) Price Index, the Federal Reserve's preferred inflation gauge, which excludes volatile food and energy prices.",economy
 info_inflation,ChartInterpretation,"A low reading reflects inflation running close to the Fed's 2% target, a favorable backdrop for markets and monetary policy. A high reading reflects inflation running well above target, raising the risk of continued restrictive Fed policy or economic disruption, although above average inflation normally results in above average nominal equity returns over time.",economy
 info_inflation,ChartLabel,Inflation,economy
@@ -769,27 +767,26 @@ info_inflation,ChartSource,U.S. Bureau of Economic Analysis (https://www.bea.gov
 info_inflation,CurrentScore,38,economy
 info_inflation,CurrentValue,3.3441,economy
 info_inflation,OneYearTrend,Weakening,economy
-info_behavioral,AsOfDate,7/31/2026,summary
+info_behavioral,AsOfDate,8/31/2026,summary
 info_behavioral,ChartLabel,Behavioral,summary
-info_behavioral,CurrentScore,53,summary
+info_behavioral,CurrentScore,35,summary
 info_behavioral,OneYearTrend,Weakening,summary
-info_credit,AsOfDate,7/31/2026,summary
+info_credit,AsOfDate,8/31/2026,summary
 info_credit,ChartLabel,Credit,summary
-info_credit,CurrentScore,65,summary
-info_credit,OneYearTrend,Weakening,summary
+info_credit,CurrentScore,68,summary
+info_credit,OneYearTrend,No Change,summary
 info_economy,AsOfDate,9/30/2026,summary
 info_economy,ChartLabel,Economy,summary
 info_economy,CurrentScore,56,summary
 info_economy,OneYearTrend,Improving,summary
-info_technical,AsOfDate,8/28/2026,summary
+info_technical,AsOfDate,9/4/2026,summary
 info_technical,ChartLabel,Technical,summary
 info_technical,CurrentScore,62,summary
 info_technical,OneYearTrend,Weakening,summary
-info_valuation,AsOfDate,7/31/2026,summary
+info_valuation,AsOfDate,8/31/2026,summary
 info_valuation,ChartLabel,Valuation,summary
-info_valuation,CurrentScore,11,summary
+info_valuation,CurrentScore,12,summary
 info_valuation,OneYearTrend,Improving,summary
-chart_breadth,8/29/2025,61.81,technical
 chart_breadth,9/5/2025,62.52,technical
 chart_breadth,9/12/2025,60.75,technical
 chart_breadth,9/19/2025,59.02,technical
@@ -842,7 +839,7 @@ chart_breadth,8/7/2026,73.61,technical
 chart_breadth,8/14/2026,73.23,technical
 chart_breadth,8/21/2026,69.03,technical
 chart_breadth,8/28/2026,66.53,technical
-chart_momentum,8/29/2025,23.8254,technical
+chart_breadth,9/4/2026,64.69,technical
 chart_momentum,9/5/2025,22.9306,technical
 chart_momentum,9/12/2025,27.429,technical
 chart_momentum,9/19/2025,30.5705,technical
@@ -895,7 +892,7 @@ chart_momentum,8/7/2026,19.5423,technical
 chart_momentum,8/14/2026,18.5791,technical
 chart_momentum,8/21/2026,15.2691,technical
 chart_momentum,8/28/2026,13.7653,technical
-chart_volatility,8/29/2025,18.35,technical
+chart_momentum,9/4/2026,16.7454,technical
 chart_volatility,9/5/2025,18.42,technical
 chart_volatility,9/12/2025,18.06,technical
 chart_volatility,9/19/2025,18.48,technical
@@ -948,37 +945,37 @@ chart_volatility,8/7/2026,18.72,technical
 chart_volatility,8/14/2026,18.46,technical
 chart_volatility,8/21/2026,18.5,technical
 chart_volatility,8/28/2026,17.48,technical
-info_breadth,AsOfDate,8/28/2026,technical
-info_breadth,ChartDateRange,2025-08-29 to 2026-08-28,technical
+chart_volatility,9/4/2026,17.61,technical
+info_breadth,AsOfDate,9/4/2026,technical
+info_breadth,ChartDateRange,2025-09-05 to 2026-09-04,technical
 info_breadth,ChartDescription,The Breadth chart displays the percentage of S&P 1500 constituent stocks trading above their 200-day moving average. The metric is updated weekly.,technical
 info_breadth,ChartInterpretation,"A high Breadth reading means that a large proportion of stocks in the broad market are participating in the current trend, reflecting a healthy, broad-based advance. A low Breadth reading means that fewer stocks are trading above their long-term trend line, which can signal a narrow, less durable market rally even if the headline index is rising.",technical
 info_breadth,ChartLabel,Breadth,technical
 info_breadth,ChartMetric,S&P 1500 % of Stocks Above 200-Day MA,technical
 info_breadth,ChartSource,S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-composite-1500/#overview),technical
-info_breadth,CurrentScore,63,technical
-info_breadth,CurrentValue,66.53,technical
+info_breadth,CurrentScore,58,technical
+info_breadth,CurrentValue,64.69,technical
 info_breadth,OneYearTrend,Improving,technical
-info_momentum,AsOfDate,8/28/2026,technical
-info_momentum,ChartDateRange,2025-08-29 to 2026-08-28,technical
+info_momentum,AsOfDate,9/4/2026,technical
+info_momentum,ChartDateRange,2025-09-05 to 2026-09-04,technical
 info_momentum,ChartDescription,"The Momentum chart displays Quartz's proprietary Momentum Score, which is calculated using 1-month, 3-month, 6-month, and 12-month trailing returns on the S&P 500 Price Index. The Score is updated and displayed on a weekly basis.",technical
 info_momentum,ChartInterpretation,A high positive Momentum Score means that the equity market is in a favorable upward trend while a negative Score means that the market is in a downward trend. Scores further away from zero indicate stronger trends while scores close to zero indicate that the Momentum factor is not currently driving the market in either direction.,technical
 info_momentum,ChartLabel,Momentum,technical
 info_momentum,ChartMetric,Quartz S&P 500 Trend Score,technical
 info_momentum,ChartSource,Quartz Partners and S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview),technical
-info_momentum,CurrentScore,61,technical
-info_momentum,CurrentValue,13.7653,technical
+info_momentum,CurrentScore,68,technical
+info_momentum,CurrentValue,16.7454,technical
 info_momentum,OneYearTrend,Weakening,technical
-info_volatility,AsOfDate,8/28/2026,technical
-info_volatility,ChartDateRange,2025-08-29 to 2026-08-28,technical
+info_volatility,AsOfDate,9/4/2026,technical
+info_volatility,ChartDateRange,2025-09-05 to 2026-09-04,technical
 info_volatility,ChartDescription,"The Volatility chart displays the Cboe 3-Month Volatility Index (VXV), which measures the market's expectation of S&P 500 volatility over the next three months.",technical
 info_volatility,ChartInterpretation,"A low Volatility reading corresponds to low expected/implied volatility, reflecting calm market conditions that are typically favorable for equities. A high Volatility reading corresponds to elevated expected volatility, reflecting investor uncertainty or stress, which has historically coincided with market drawdowns.",technical
 info_volatility,ChartLabel,Volatility,technical
 info_volatility,ChartMetric,CBOE 3-Month Volatility Index,technical
 info_volatility,ChartSource,Cboe Global Markets (https://www.cboe.com/us/indices/dashboard/vxv/),technical
-info_volatility,CurrentScore,62,technical
-info_volatility,CurrentValue,17.48,technical
+info_volatility,CurrentScore,61,technical
+info_volatility,CurrentValue,17.61,technical
 info_volatility,OneYearTrend,Improving,technical
-chart_ev,8/31/2021,26.1,valuation
 chart_ev,9/30/2021,23.3,valuation
 chart_ev,10/31/2021,24.4,valuation
 chart_ev,11/30/2021,24.5,valuation
@@ -1038,7 +1035,7 @@ chart_ev,4/30/2026,26.3,valuation
 chart_ev,5/31/2026,27.3,valuation
 chart_ev,6/30/2026,26.4,valuation
 chart_ev,7/31/2026,25.3,valuation
-chart_pe,8/31/2021,22.1,valuation
+chart_ev,8/31/2026,25,valuation
 chart_pe,9/30/2021,21,valuation
 chart_pe,10/31/2021,21.9,valuation
 chart_pe,11/30/2021,21.4,valuation
@@ -1098,7 +1095,7 @@ chart_pe,4/30/2026,21.4,valuation
 chart_pe,5/31/2026,21.9,valuation
 chart_pe,6/30/2026,21.1,valuation
 chart_pe,7/31/2026,20.6,valuation
-chart_ps,8/31/2021,3.1,valuation
+chart_pe,8/31/2026,20.4,valuation
 chart_ps,9/30/2021,2.9,valuation
 chart_ps,10/31/2021,3.1,valuation
 chart_ps,11/30/2021,3,valuation
@@ -1158,28 +1155,29 @@ chart_ps,4/30/2026,3.6,valuation
 chart_ps,5/31/2026,3.8,valuation
 chart_ps,6/30/2026,3.7,valuation
 chart_ps,7/31/2026,3.6,valuation
-info_ev,AsOfDate,7/31/2026,valuation
-info_ev,ChartDateRange,2021-08-31 to 2026-07-31,valuation
+chart_ps,8/31/2026,3.6,valuation
+info_ev,AsOfDate,8/31/2026,valuation
+info_ev,ChartDateRange,2021-09-30 to 2026-08-31,valuation
 info_ev,ChartDescription,The Enterprise Valuation chart displays the S&P 500's trailing-twelve-month Enterprise Value to EBIT (EV/EBIT) ratio.,valuation
 info_ev,ChartInterpretation,"A low reading  indicates the market is cheap relative to history on this measure, implying more attractive forward return potential. A high reading indicates the market is expensive on an enterprise-value basis relative to history, implying elevated valuation risk and lower expected forward returns.",valuation
 info_ev,ChartLabel,Enterprise Valuation,valuation
 info_ev,ChartMetric,S&P 500 EV to EBIT (TTM),valuation
 info_ev,ChartSource,S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview),valuation
-info_ev,CurrentScore,13,valuation
-info_ev,CurrentValue,25.3,valuation
+info_ev,CurrentScore,15,valuation
+info_ev,CurrentValue,25,valuation
 info_ev,OneYearTrend,Improving,valuation
-info_pe,AsOfDate,7/31/2026,valuation
-info_pe,ChartDateRange,2021-08-31 to 2026-07-31,valuation
+info_pe,AsOfDate,8/31/2026,valuation
+info_pe,ChartDateRange,2021-09-30 to 2026-08-31,valuation
 info_pe,ChartDescription,The Earnings Valuation chart displays the S&P 500's forward 12-month Price-to-Earnings (P/E) ratio.,valuation
 info_pe,ChartInterpretation,"A low reading indicates equities are cheap on a forward-earnings basis relative to history, implying more attractive forward return potential. A high reading indicates equities are expensive relative to expected forward earnings, implying elevated valuation risk and lower expected forward returns.",valuation
 info_pe,ChartLabel,Earnings Valuation,valuation
 info_pe,ChartMetric,S&P 500 Forward P/E Ratio,valuation
 info_pe,ChartSource,S&P Global (https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview),valuation
-info_pe,CurrentScore,18,valuation
-info_pe,CurrentValue,20.6,valuation
+info_pe,CurrentScore,19,valuation
+info_pe,CurrentValue,20.4,valuation
 info_pe,OneYearTrend,Improving,valuation
-info_ps,AsOfDate,7/31/2026,valuation
-info_ps,ChartDateRange,2021-08-31 to 2026-07-31,valuation
+info_ps,AsOfDate,8/31/2026,valuation
+info_ps,ChartDateRange,2021-09-30 to 2026-08-31,valuation
 info_ps,ChartDescription,The Revenue Valuation chart displays the S&P 500's trailing-twelve-month Price-to-Sales (P/S) ratio.,valuation
 info_ps,ChartInterpretation,"A low reading indicates equities are cheap on a revenue basis relative to history, implying more attractive valuations. A high reading indicates equities are expensive relative to top-line revenue, implying elevated valuation risk.",valuation
 info_ps,ChartLabel,Revenue Valuation,valuation
