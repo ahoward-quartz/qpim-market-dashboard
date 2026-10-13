@@ -237,7 +237,6 @@ chart_barometer,5/31/2026,12.3333,behavioral
 chart_barometer,6/30/2026,12.3333,behavioral
 chart_barometer,7/31/2026,11.6667,behavioral
 chart_barometer,8/31/2026,11.3333,behavioral
-chart_barometer,9/30/2026,17,behavioral
 chart_preference,10/31/2016,63,behavioral
 chart_preference,11/30/2016,48,behavioral
 chart_preference,12/31/2016,49,behavioral
@@ -367,16 +366,16 @@ info_aeo,ChartSource,Quartz Partners,behavioral
 info_aeo,CurrentScore,86,behavioral
 info_aeo,CurrentValue,27.9293,behavioral
 info_aeo,OneYearTrend,Improving,behavioral
-info_barometer,AsOfDate,9/30/2026,behavioral
-info_barometer,ChartDateRange,2016-10-31 to 2026-09-30,behavioral
+info_barometer,AsOfDate,8/31/2026,behavioral
+info_barometer,ChartDateRange,2016-10-31 to 2026-08-31,behavioral
 info_barometer,ChartDescription,"The Market Barometer chart displays Quartz's Market Barometer Score, based on the average of Quartz's three Behavioral Market Barometers: US Large Cap, US Small Cap, and International Developed.",behavioral
 info_barometer,ChartInterpretation,"A high Score corresponds to a higher blended expected forward return for equities and a favorable backdrop for risk assets. A low Score corresponds to a lower blended expected forward return, suggesting a more cautious return outlook.",behavioral
 info_barometer,ChartLabel,Market Barometer,behavioral
 info_barometer,ChartMetric,Blended Expected Equity Market Returns,behavioral
 info_barometer,ChartSource,Quartz Partners,behavioral
-info_barometer,CurrentScore,100,behavioral
-info_barometer,CurrentValue,17,behavioral
-info_barometer,OneYearTrend,Improving,behavioral
+info_barometer,CurrentScore,60,behavioral
+info_barometer,CurrentValue,11.3333,behavioral
+info_barometer,OneYearTrend,Weakening,behavioral
 info_preference,AsOfDate,8/31/2026,behavioral
 info_preference,ChartDateRange,2016-10-31 to 2026-08-31,behavioral
 info_preference,ChartDescription,"The Equity Preference chart displays Quartz's Equity Preference Score, based on the ranking of current investor preference for equity strategies versus the ranking of long-term investor preference for equity strategies.",behavioral
@@ -764,9 +763,9 @@ info_inflation,ChartSource,U.S. Bureau of Economic Analysis (https://www.bea.gov
 info_inflation,CurrentScore,43,economy
 info_inflation,CurrentValue,3.0076,economy
 info_inflation,OneYearTrend,Weakening,economy
-info_behavioral,AsOfDate,9/30/2026,summary
+info_behavioral,AsOfDate,8/31/2026,summary
 info_behavioral,ChartLabel,Behavioral,summary
-info_behavioral,CurrentScore,63,summary
+info_behavioral,CurrentScore,50,summary
 info_behavioral,OneYearTrend,Weakening,summary
 info_credit,AsOfDate,9/30/2026,summary
 info_credit,ChartLabel,Credit,summary
